@@ -1,0 +1,99 @@
+question_id,language,country,category,question,options,label,predicted_label,is_correct,is_None
+5865921724276376594_1,1,Brazil,Sports and recreation,Em que lugar está sendo realizada a atividade mostrada na foto?,"['Em um clube', 'Numa quadra de escola de samba', 'Em um ginásio esportivo', 'Num celeiro']",1,1,True,False
+5865745414271786432_2,0,Egypt,Public Figure and pop culture,في أنهي سنة إتوفى؟,"['٢٠٢٠', '٢٠١٨', '٢٠١٦', '٢٠١٤']",2,1,False,False
+5865921734274186008_2,1,Brazil,Cooking and food,Em que região do Brasil são produzidas as frutas usadas na preparação deste alimento?,"['Sul', 'Amazônia', 'Centro-oeste', 'Sudeste']",1,1,True,False
+5865745404274877137_2,0,Egypt,Geography / buildings / landmarks,من الرئيس المصري اللي أمر ببناء النصب التذكاري ده؟,"['جمال عبد الناصر', 'عبد الفتاح السيسي', 'أنور السادات', 'حسني مبارك']",2,2,True,False
+5865921714278479218_2,1,Brazil,Public Figure and pop culture,Qual a profissão dessa pessoa?,"['Cientista', 'Atriz', 'Política', 'Cantora']",1,2,False,False
+5865921724277985415_2,1,Brazil,Brands / products / companies,Qual a principal característica do sabor desta marca?,"['Adocicado', 'Azedo', 'Suave', 'Forte']",3,3,True,False
+5865921714279540208_1,1,Brazil,Cooking and food,Que bebida alcoólica é usada como base nessa bebida?,"['Cachaça', 'Rum', 'Vodka', 'Whisky']",0,0,True,False
+5865745414271562616_0,0,Egypt,Geography / buildings / landmarks,إيه إسم المعبد ده؟,"['معبد إدفو', 'معبد رمسيس الثالث', 'معبد حتشبسوت', 'معبد الأقصر']",3,3,True,False
+5865745414276586860_1,0,Egypt,Public Figure and pop culture,في أنهي بلد اتولد الشخص اللي في الصورة؟,"['إسبانيا', 'الجزائر', 'مصر', 'إيطاليا']",2,2,True,False
+5865745414271786432_0,0,Egypt,Public Figure and pop culture,إيه إسم الشخصية اللي في الصورة؟,"['أحمد زويل', 'مجدي إبراهيم', 'محمد زويل', 'مجدي يعقوب']",0,3,False,False
+5865921724277641497_2,1,Brazil,Brands / products / companies,Qual é a forma mais comum de comer esse produto?,"['Com arroz', 'Com leite', 'Sozinho', 'Com salada']",2,2,True,False
+5865921714278763523_0,1,Brazil,Cooking and food,Qual o nome desse prato típico?,"['Moqueca', 'Baião de dois', 'Vatapá', 'Acarajé']",1,1,True,False
+5865745414271156785_2,0,Egypt,Public Figure and pop culture,في أنهي سنة اتعيين لأول مرة مدرب لمنتخب مصر؟,"['٢٠٠٤', '٢٠٠١', '٢٠١٠', '٢٠٠٨']",0,1,False,False
+5865745414272403164_1,0,Egypt,Traditions / art / history,في أنهي بلد أوروبية تم عرض التمثال ده بعد اكتشافه؟,"['فرنسا', 'إنجلترا', 'ألمانيا', 'إيطاليا']",2,0,False,False
+5865745404272404411_2,0,Egypt,Brands / products / companies,الشخصية الكرتونية دي مرتبطة بأنهي وقت في السنة؟,"['شهر رمضان', 'عيد الأضحى', 'أجازة الصيف', 'أجازة الشتاء']",0,0,True,False
+5865921734273011826_0,1,Brazil,Cooking and food,Que prato típico é este?,"['Feijoada', 'Baião de dois', 'Tacacá', 'Carne cozida']",2,2,True,False
+5865921724276991380_1,1,Brazil,Traditions / art / history,A qual região do Brasil o gênero musical tocado pelos músicos da foto está associado?,"['Região Nordeste', 'Região Sul', 'Região Sudeste', 'Região Centro-oeste']",0,1,False,False
+5865745404274877137_0,0,Egypt,Geography / buildings / landmarks,إيه إسم النصب التذكاري المصري اللي في الصورة دي؟,"['النصب التذكاري للجندي المجهول', 'نصب الشهداء', 'النصب التذكاري للجنود المصريين', 'نصب تحرير سيناء']",0,0,True,False
+5865921724277757865_1,1,Brazil,Plants and animal,O que são as esferas no tronco da árvore?,"['Flores', 'Uvas', 'Jabuticabas', 'Mirtilos']",2,2,True,False
+5865745414272403164_0,0,Egypt,Traditions / art / history,التمثال ده لانهي ملكة مصرية؟,"['حتشبسوت', 'كليوباترا', 'نفرتاري', 'نفرتيتي']",3,0,False,False
+5865921724272758350_1,1,Brazil,Plants and animal,Qual o continente nativo desta árvore?,"['América do Sul', 'África', 'Ásia', 'América do Norte']",0,0,True,False
+5865921714279434118_1,1,Brazil,Objects / materials / clothing,Qual o nome do canudo de metal usado com uma cuia?,"['Bomba', 'Fino', 'Canudo', 'Longo']",0,0,True,False
+5865921714278479218_1,1,Brazil,Public Figure and pop culture,A que prêmio internacional essa pessoa foi indicada?,"['Nobel', 'Grammy', 'Pulitzer', 'Oscar']",3,0,False,False
+5865745404277865435_0,0,Egypt,People and everyday life,إيه اللعبة اللي عادة بتتلعب في الظرف الموضح في الصورة في مصر؟,"['الداما', 'السلم والثعبان', 'طاولة', 'شطرنج']",2,2,True,False
+5865921714272599641_2,1,Brazil,Sports and recreation,Quem tradicionalmente praticava essa arte marcial?,"['Imigrantes asiáticos', 'Colonos europeus', 'Nativos americanos', 'Africanos escravizados no Brasil']",3,3,True,False
+5865745414275186002_0,0,Egypt,Objects / materials / clothing,الحاجات الملونة اللي في الصورة اسمها إيه في مصر؟,"['حاوية', 'صندوق', 'قلة', 'إناء']",2,2,True,False
+5865921724271878085_0,1,Brazil,Plants and animal,Que planta é essa?,"['Cacto', 'Alga marinha', 'Palmeira tropical', 'Vitória-régia']",3,3,True,False
+5865921714279540208_2,1,Brazil,Cooking and food,"Além de limão, cachaça e gelo, que outro ingrediente é usado na bebida mostrada na foto?","['Vodka', 'Sal', 'Triple sec', 'Açúcar']",3,3,True,False
+5865921724278457769_0,1,Brazil,Geography / buildings / landmarks,Que lugar é este?,"['Ilha de Páscoa', 'Praia de Copacabana', 'Praia de Boa Viagem', 'Arquipélago de Fernando de Noronha']",3,3,True,False
+5865745414274422834_0,0,Egypt,Cooking and food,إيه إسم الأكل ده؟,"['بسبوسة', 'بقلاوة', 'كحك', 'كنافة']",2,2,True,False
+5865745404271344489_1,0,Egypt,Vehicles and Transportation,المركبة اللي بيشير ليها السهم عندها كام شراع؟,"['٣', '٤', '٢', '١']",3,2,False,False
+5865745414274606339_0,0,Egypt,Geography / buildings / landmarks,في أنهي متحف في مصر اتخدت الصورة دي في سنة ٢٠٢٣؟,"['المتحف المصري الكبير', 'المتحف القومي للحضارة المصرية', 'متحف التحنيط', 'متحف الأقصر']",1,1,True,False
+5865921714279520278_1,1,Brazil,Brands / products / companies,Qual o significado do nome dessa empresa em sua língua original?,"['Pedra cantante', 'Rio dourado', 'Pedra preta', 'Chama eterna']",2,0,False,False
+5865921724276376594_0,1,Brazil,Sports and recreation,Que atividade recreativa é essa?,"['Pagode', 'Gafieira', 'Forró', 'Roda de samba']",3,3,True,False
+5865921714272993335_1,1,Brazil,Plants and animal,Qual o principal alimento desse animal?,"['Frutas', 'Peixes', 'Formigas e cupins', 'Pequenos mamíferos']",2,2,True,False
+5865921734271241967_0,1,Brazil,Public Figure and pop culture,Quem é a pessoa na foto?,"['Xuxa', 'Hebe Camargo', 'Carmen Miranda', 'Angélica']",0,3,False,False
+5865921724273569611_1,1,Brazil,Plants and animal,Onde é o habitat natural desse animal?,"['Cerrado', 'Floresta Amazônica', 'Parques urbanos', 'Pampas Gaúchos']",1,1,True,False
+5865745404273777720_0,0,Egypt,Geography / buildings / landmarks,إيه إسم الهيكل الأبيض الكبير اللي في شمال الصورة؟ ,"['مبني النيل', 'السد العالي', 'محطة تحلية مية البحر', 'مبني الإذاعة والتلفزيون']",1,1,True,False
+5865745414271566209_0,0,Egypt,Plants and animal,إيه إسم الحيوان اللي قاعد ورا الانسان اللي في الصورة؟,"['اللاما', 'زرافة', 'كنغر', 'جمل']",3,3,True,False
+5865921724271622539_1,1,Brazil,Plants and animal,Qual é o hábito alimentar deste animal?,"['Carnívoro', 'Detritívoro', 'Onívoro', 'Herbívoro']",3,3,True,False
+5865921714276226399_2,1,Brazil,Plants and animal,Como esse animal caça suas presas?,"['Perseguindo em alta velocidade', 'Nadando e mergulhando', 'Escalando árvores', 'Observação e emboscada']",3,3,True,False
+5865921544275330140_1,1,Brazil,People and everyday life,Que tipo de produto é vendido nas bancas vistas na foto?,"['Material de papelaria', 'Alimentos', 'Brinquedos', 'Roupas']",1,1,True,False
+5865745404273527458_0,0,Egypt,Sports and recreation,إيه إسم النشاط اللي بيقوم بيه الشخص اللي في الصورة؟,"['مشاهدة النجوم', 'المشي في الصحراء', 'التزلج على الرمال', 'التخييم في الصحراء']",2,2,True,False
+5865921724278669886_2,1,Brazil,Public Figure and pop culture,Qual o nome do mais famoso livro escrito pela pessoa nesta foto?,"['Macunaíma', 'O alquimista', 'Dom Casmurro', 'Capitães da areia']",1,1,True,False
+5865921734272985666_2,1,Brazil,Geography / buildings / landmarks,Que arquiteto é mundialmente conhecido pelo estilo arquitetônico mostrado na foto?,"['Frank Geary', 'Gaudí', 'Oscar Niemeyer', 'Santiago Calatrava']",2,2,True,False
+5865745414275081745_0,0,Egypt,Geography / buildings / landmarks,في أنهي مدينة في مصر يقع الفندق ده؟,"['دهب', 'القاهرة', 'أسوان', 'الأقصر']",2,2,True,False
+5865921714276665241_2,1,Brazil,Geography / buildings / landmarks,Qual o nome do bairro ao redor da montanha mostrada na foto?,"['Osasco', 'Urca', 'Cidade Baixa', 'Copacabana']",1,1,True,False
+5865921724278669886_1,1,Brazil,Public Figure and pop culture,Por que motivo a pessoa mostrada na foto é conhecida?,"['Por sua carreira como chefe de cozinha', 'Por sua carreira como escritor', 'Por sua carreira como esportista', 'Por sua carreira de dançarino na Broadway']",1,1,True,False
+5865921734273472362_1,1,Brazil,Geography / buildings / landmarks,Em que cidade fica localizada a estátua mostrada na foto?,"['Recife', 'Rio de Janeiro', 'São Paulo', 'Campina Grande']",1,1,True,False
+5865745404278163181_1,0,Egypt,Geography / buildings / landmarks,فيه كام مأذنة في الصورة؟,"['اتنين', 'تلاتة', 'واحدة', 'أربعة']",2,2,True,False
+5865745404274260775_1,0,Egypt,Plants and animal,إيه الشجر اللي موجود في الجزء الأعلى من الصورة؟,"['السايكادس', 'شجر الموز', 'نخل', 'شجر النيم']",2,2,True,False
+5865921734279859174_0,1,Brazil,Geography / buildings / landmarks,Que prédio é este?,"['Palácio Imperial de Petrópolis', 'Casa da Moeda do Brasil', 'Museu do Ipiranga', 'Biblioteca Nacional do Brasil']",2,0,False,False
+5865745404275445480_0,0,Egypt,Objects / materials / clothing,إيه إسم المسجد اللي على الورقة النقدية اللي متعلمة برقم '١' في الصورة؟,"[' مسجد السلطان حسن', ' مسجد بن طولون', ' الجامع الأزهر', ' مسجد محمد على']",0,0,True,False
+5865745414276293661_0,0,Egypt,Brands / products / companies,إسم الشخصية الكرتونية اللي في الصورة إيه؟,"['بوجى', 'طمطم', 'مرمر', 'بكار']",3,3,True,False
+5865745414272713489_0,0,Egypt,Cooking and food,إيه إسم الأكلة دي؟,"['كفتة', 'محشي كرمب', 'سجق', 'ممبار']",3,2,False,False
+5865745404275206054_0,0,Egypt,Traditions / art / history,الصورة دي بترمز لأنهي أوبريت مصري؟,"['شهرزاد', 'الليلة الكبيرة', 'المولد', 'السيرك']",1,1,True,False
+5865921714273558606_1,1,Brazil,Plants and animal,Em que continente esse animal é encontrado?,"['Oceania', 'Ásia', 'América do Sul', 'África']",2,2,True,False
+5865745414271562616_1,0,Egypt,Geography / buildings / landmarks,المعبد ده في أنهي بلد؟,"['اليونان', 'المكسيك', 'مصر', 'الأردن']",2,2,True,False
+5865921734271241967_1,1,Brazil,Public Figure and pop culture,Por que motivo a pessoa mostrada na foto é conhecida?,"['Por sua carreira como apresentadora de TV', 'Por sua carreira como política', 'Por sua carreira como chefe de cozinha', 'Por sua carreira como esportista']",0,0,True,False
+5865745404276766066_2,0,Egypt,Geography / buildings / landmarks,ايه الرسومات اللي علي الحيطة دي؟,"['رسومات مسيحية للمسيح', 'رسومات للتاريخ المصري علي مر السنين', 'رسم للحضارة المصرية القديمة', 'زخارف فرعونية']",0,0,True,False
+5865921724279756825_0,1,Brazil,Public Figure and pop culture,Quem é a pessoa na foto?,"['Tony Ramos', 'Gilberto Gil', 'Caetano Veloso', 'Getúlio Vargas']",2,2,True,False
+5865921734272985666_0,1,Brazil,Geography / buildings / landmarks,Que lugar é este?,"['É a Esplanada dos Ministérios, em Brasília', 'É a avenida Presidente Vargas, no Rio de Janeiro', 'É a avenida Paulista, em São Paulo', 'É a Avenida Afonso Pena, em Belo Horizonte']",0,0,True,False
+5865921714276665241_0,1,Brazil,Geography / buildings / landmarks,Que lugar é este?,"['Pelourinho', 'Pão de Açúcar', 'Copacabana', 'Avenida Paulista']",1,1,True,False
+5865921714274603466_1,1,Brazil,Cooking and food,Qual tipo de peixe é comumente utilizado na preparação desse prato típico?,"['Sardinhas', 'Atum', 'Salmão', 'Peixes brancos como robalo e badejo']",3,3,True,False
+5865921714273505712_0,1,Brazil,Brands / products / companies,Qual é o nome da marca mostrada na imagem?,"['Hering', 'Havan', 'Hércules', 'Havaianas']",0,0,True,False
+5865921734279252365_1,1,Brazil,Objects / materials / clothing,De que material é feito este filtro?,"['Aço', 'Barro', 'Pedra', 'Madeira']",1,1,True,False
+5865921734279859174_1,1,Brazil,Geography / buildings / landmarks,Em que cidade fica localizada a construção mostrada na foto?,"['Salvador', 'Belo Horizonte', 'Rio de Janeiro', 'São Paulo']",3,2,False,False
+5865921734275798818_0,1,Brazil,Geography / buildings / landmarks,Que tipo de construção é esta?,"['Sede de fazenda colonial', 'Hospital', 'Casa urbana', 'Escola']",0,0,True,False
+5865921734277107771_2,1,Brazil,Traditions / art / history,Em que lugar do Brasil é produzido este tipo de artesanato?,"['Ilha de Marajó', 'Juiz de Fora', 'Rio de Janeiro', 'São Paulo']",0,0,True,False
+5865745404275445480_2,0,Egypt,Objects / materials / clothing,إيه إسم المسجد اللي على الورقة النقدية اللي متعلمة برقم '٣' في الصورة؟,"[' مسجد محمد على', ' الجامع الأزهر', ' مسجد السلطان حسن', ' مسجد بن طولون']",3,0,False,False
+5865921724272030424_0,1,Brazil,Traditions / art / history,Qual o nome da tradicional festa popular retratada nesta foto?,"['Natal', 'Festa Junina', 'Carnaval', 'Páscoa']",1,1,True,False
+5865745404271344489_0,0,Egypt,Vehicles and Transportation,المركبة اللي بيشير ليها السهم اسمها إيه في مصر؟,"['عبارة', 'قارب', 'فلوكة', 'كيتش']",2,2,True,False
+5865921714273505712_2,1,Brazil,Brands / products / companies,Por qual campanha a marca mostrada na foto ficou conhecida no Brasil?,"['Adote uma criança', 'Criança Esperança', 'Médicos sem fronteiras', 'Câncer de mama no alvo da moda']",3,1,False,False
+5865745404274702390_0,0,Egypt,Sports and recreation,إيه اسم الرياضة اللي نشأت منها الرقص الشعبي المصري اللي في الصورة؟,"['بوجتسو', 'تحطيب', 'مبارزة', 'أرنيس']",1,1,True,False
+5865921724278872802_2,1,Brazil,People and everyday life,A iguaria apresentada nesta foto é típica da culinária de qual estado brasileiro?,"['Ceará', 'Bahia', 'Pernambuco', 'Minas Gerais']",1,1,True,False
+5865745414271845716_0,0,Egypt,Traditions / art / history,الحاجة دي اسمها إيه في مصر؟,"['سراج', 'فانوس', 'قنديل', 'مصباح']",1,1,True,False
+5865921734272370139_0,1,Brazil,Geography / buildings / landmarks,Que tipo de arquitetura é representado na imagem?,"['Arquitetura colonial', 'Arquitetura brutalista', 'Estilo neogótico', 'Arquitetura modernista']",0,0,True,False
+5865745404279579635_0,0,Egypt,People and everyday life,الولد ده بيعمل إيه بالحاجة اللي هو شايلها؟,"['بينضف الشاطئ', 'بيصطاد', 'بيطير طيارة ورق', 'بيبيع غزل بنات']",3,3,True,False
+5865921724271226128_0,1,Brazil,Geography / buildings / landmarks,Que lugar é este?,"['Jardim Botânico de Curitiba', 'Praia de Copacabana', 'Monumento dos Bandeirantes', 'Arcos da Lapa']",0,0,True,False
+5865745404273793694_0,0,Egypt,Objects / materials / clothing,إيه نوع الوثيقة المصرية اللي على يمين الصورة؟ ,"['جواز سفر', 'وثيقة إذن عمل بالهيئات الأجنبية (خارج البلاد)', 'رخصة قيادة دولية', 'بطاقة الرقم القومى']",0,0,True,False
+5865745404272698923_1,0,Egypt,Geography / buildings / landmarks,ايه وظيفة المبني ده؟,"['محطة اتوبيسات', 'مطار', 'متحف', 'محطة قطر']",3,3,True,False
+5865745414272668247_1,0,Egypt,Brands / products / companies,في أنهي سنة تأسس البنك ده؟,"['١٩٥٢', '١٨٢٦', '١٨٩٨', '١٩٢٠']",3,1,False,False
+5865921714276226399_1,1,Brazil,Plants and animal,Que continente é o habitat natural desse animal?,"['América do Norte', 'América do Sul', 'Europa', 'Oceania']",1,1,True,False
+5865921724279688994_2,1,Brazil,Vehicles and Transportation,Como é chamada o tipo de estrada em que que o veículo da foto está trafegando?,"['Rodovia estadual', 'Via expressa', 'Estrada de chão', 'BR']",2,2,True,False
+5865745414278530868_1,0,Egypt,Traditions / art / history,التمثال ده في أنهي بلد؟,"['مصر', 'الصين', 'اليونان', 'العراق']",0,0,True,False
+5865921714276665241_1,1,Brazil,Geography / buildings / landmarks,Em que cidade do Brasil fica o lugar mostrado na foto?,"['Belo Horizonte', 'Salvador', 'Rio de Janeiro', 'Manaus']",2,2,True,False
+5865921724272953682_0,1,Brazil,Brands / products / companies,Qual a marca desse produto?,"['Hering', 'Havaianas', 'Vulcabras', 'Carmen Steffens']",1,1,True,False
+5865921724278457769_1,1,Brazil,Geography / buildings / landmarks,Que nome é dado à formação rochosa mostrada na foto?,"['Morro da Urca', 'Morro da Providência', 'Morro Dois Irmãos', 'Morro do Corcovado']",2,2,True,False
+5865921734279252365_2,1,Brazil,Objects / materials / clothing,Como funciona o objeto mostrado na imagem?,"['Coloca-se fogo na parte de cima e água na parte de baixo', 'Coloca-se água na parte superior e ela é filtrada por gravidade para ser armazenada na parte inferior', 'Coloca-se vinho na parte superior para envelhecer na parte de baixo', 'A parte de cima esquenta a água e a parte de baixo armazena']",1,1,True,False
+5865745414278976001_0,0,Egypt,Traditions / art / history,إيه أول رمز هيروغليفي مصري قديم فوق في الصورة؟,"['عين رع', 'الجعران', 'العنخ (مفتاح الحياة)', 'جد']",2,2,True,False
+5865921724278368870_0,1,Brazil,Sports and recreation,Qual o nome desse jogo?,"['Críquete', 'Bete', 'Golfe', 'Beisebol']",1,1,True,False
+5865745414271845716_1,0,Egypt,Traditions / art / history,الحاجة دي بتستخدم كمظهر إحتفال لأنهي شهر إسلامي؟,"['رجب', 'رمضان', 'شوال', 'ذو الحجة']",1,1,True,False
+5865921724272018651_0,1,Brazil,Vehicles and Transportation,Qual a função do veículo azul nesta foto?,"['Transporte público de passageiros dentro de cidades', 'Transporte de militares', 'Transporte de animais', 'Transporte de pessoas feridas']",0,0,True,False
+5865745424273092767_0,0,Egypt,Traditions / art / history,إيه إسم الرقصة دي؟,"['رقصة التنورة', 'الرقصة الدائرية', 'الرقصة الشعبية', 'الرقصة المصرية']",0,0,True,False
+5865921724272085630_1,1,Brazil,Geography / buildings / landmarks,O que caracteriza a formação de relevo mostrada na foto?,"['A mistura de lagoas e dunas que se movimentam ininterruptamente', 'As ilhas rochosas e o mar aberto', 'As ondas gigantes e o mar aberto', 'As flores coloridas']",0,0,True,False
+5865921714272993335_2,1,Brazil,Plants and animal,Qual o principal habitat deste animal?,"['Cavernas', 'Pastagens e florestas', 'Desertos', 'Tundra']",1,1,True,False
+5865745404279595472_0,0,Egypt,Public Figure and pop culture,ايه اسم اللاعبة المصرية اللي في الصورة؟,"['سارة سمير', 'هداية ملاك', 'فريال أشرف', 'جيانا فاروق']",1,1,True,False
+5865745414272401184_0,0,Egypt,Geography / buildings / landmarks,إيه إسم الكوبري ده؟,"['كوبري إمبابة', 'كوبري 6 أكتوبر', 'كوبري قصر النيل', 'كوبري الزمالك']",2,2,True,False
