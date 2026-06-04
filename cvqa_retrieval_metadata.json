@@ -1,1 +1,1 @@
-{"model": "SentenceTransformer", "embedding_size": 1024, "prefix_query": null, "prefix_passage": null, "normalized": true, "dataset": "afaji/cvqa", "num_items": 227}
+{"model": "SentenceTransformer", "embedding_size": 1024, "prefix_query": null, "prefix_passage": null, "normalized": true, "dataset": "afaji/cvqa", "num_items": 721}
