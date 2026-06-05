@@ -1,99 +1,182 @@
 question_id,language,country,category,question,options,label,predicted_label,is_correct,is_None
-5865921724276376594_1,1,Brazil,Sports and recreation,Em que lugar está sendo realizada a atividade mostrada na foto?,"['Em um clube', 'Numa quadra de escola de samba', 'Em um ginásio esportivo', 'Num celeiro']",1,1,True,False
-5865745414271786432_2,0,Egypt,Public Figure and pop culture,في أنهي سنة إتوفى؟,"['٢٠٢٠', '٢٠١٨', '٢٠١٦', '٢٠١٤']",2,1,False,False
-5865921734274186008_2,1,Brazil,Cooking and food,Em que região do Brasil são produzidas as frutas usadas na preparação deste alimento?,"['Sul', 'Amazônia', 'Centro-oeste', 'Sudeste']",1,1,True,False
-5865745404274877137_2,0,Egypt,Geography / buildings / landmarks,من الرئيس المصري اللي أمر ببناء النصب التذكاري ده؟,"['جمال عبد الناصر', 'عبد الفتاح السيسي', 'أنور السادات', 'حسني مبارك']",2,2,True,False
-5865921714278479218_2,1,Brazil,Public Figure and pop culture,Qual a profissão dessa pessoa?,"['Cientista', 'Atriz', 'Política', 'Cantora']",1,2,False,False
-5865921724277985415_2,1,Brazil,Brands / products / companies,Qual a principal característica do sabor desta marca?,"['Adocicado', 'Azedo', 'Suave', 'Forte']",3,3,True,False
-5865921714279540208_1,1,Brazil,Cooking and food,Que bebida alcoólica é usada como base nessa bebida?,"['Cachaça', 'Rum', 'Vodka', 'Whisky']",0,0,True,False
-5865745414271562616_0,0,Egypt,Geography / buildings / landmarks,إيه إسم المعبد ده؟,"['معبد إدفو', 'معبد رمسيس الثالث', 'معبد حتشبسوت', 'معبد الأقصر']",3,3,True,False
-5865745414276586860_1,0,Egypt,Public Figure and pop culture,في أنهي بلد اتولد الشخص اللي في الصورة؟,"['إسبانيا', 'الجزائر', 'مصر', 'إيطاليا']",2,2,True,False
-5865745414271786432_0,0,Egypt,Public Figure and pop culture,إيه إسم الشخصية اللي في الصورة؟,"['أحمد زويل', 'مجدي إبراهيم', 'محمد زويل', 'مجدي يعقوب']",0,3,False,False
-5865921724277641497_2,1,Brazil,Brands / products / companies,Qual é a forma mais comum de comer esse produto?,"['Com arroz', 'Com leite', 'Sozinho', 'Com salada']",2,2,True,False
-5865921714278763523_0,1,Brazil,Cooking and food,Qual o nome desse prato típico?,"['Moqueca', 'Baião de dois', 'Vatapá', 'Acarajé']",1,1,True,False
-5865745414271156785_2,0,Egypt,Public Figure and pop culture,في أنهي سنة اتعيين لأول مرة مدرب لمنتخب مصر؟,"['٢٠٠٤', '٢٠٠١', '٢٠١٠', '٢٠٠٨']",0,1,False,False
-5865745414272403164_1,0,Egypt,Traditions / art / history,في أنهي بلد أوروبية تم عرض التمثال ده بعد اكتشافه؟,"['فرنسا', 'إنجلترا', 'ألمانيا', 'إيطاليا']",2,0,False,False
-5865745404272404411_2,0,Egypt,Brands / products / companies,الشخصية الكرتونية دي مرتبطة بأنهي وقت في السنة؟,"['شهر رمضان', 'عيد الأضحى', 'أجازة الصيف', 'أجازة الشتاء']",0,0,True,False
-5865921734273011826_0,1,Brazil,Cooking and food,Que prato típico é este?,"['Feijoada', 'Baião de dois', 'Tacacá', 'Carne cozida']",2,2,True,False
-5865921724276991380_1,1,Brazil,Traditions / art / history,A qual região do Brasil o gênero musical tocado pelos músicos da foto está associado?,"['Região Nordeste', 'Região Sul', 'Região Sudeste', 'Região Centro-oeste']",0,1,False,False
-5865745404274877137_0,0,Egypt,Geography / buildings / landmarks,إيه إسم النصب التذكاري المصري اللي في الصورة دي؟,"['النصب التذكاري للجندي المجهول', 'نصب الشهداء', 'النصب التذكاري للجنود المصريين', 'نصب تحرير سيناء']",0,0,True,False
-5865921724277757865_1,1,Brazil,Plants and animal,O que são as esferas no tronco da árvore?,"['Flores', 'Uvas', 'Jabuticabas', 'Mirtilos']",2,2,True,False
-5865745414272403164_0,0,Egypt,Traditions / art / history,التمثال ده لانهي ملكة مصرية؟,"['حتشبسوت', 'كليوباترا', 'نفرتاري', 'نفرتيتي']",3,0,False,False
-5865921724272758350_1,1,Brazil,Plants and animal,Qual o continente nativo desta árvore?,"['América do Sul', 'África', 'Ásia', 'América do Norte']",0,0,True,False
-5865921714279434118_1,1,Brazil,Objects / materials / clothing,Qual o nome do canudo de metal usado com uma cuia?,"['Bomba', 'Fino', 'Canudo', 'Longo']",0,0,True,False
-5865921714278479218_1,1,Brazil,Public Figure and pop culture,A que prêmio internacional essa pessoa foi indicada?,"['Nobel', 'Grammy', 'Pulitzer', 'Oscar']",3,0,False,False
-5865745404277865435_0,0,Egypt,People and everyday life,إيه اللعبة اللي عادة بتتلعب في الظرف الموضح في الصورة في مصر؟,"['الداما', 'السلم والثعبان', 'طاولة', 'شطرنج']",2,2,True,False
-5865921714272599641_2,1,Brazil,Sports and recreation,Quem tradicionalmente praticava essa arte marcial?,"['Imigrantes asiáticos', 'Colonos europeus', 'Nativos americanos', 'Africanos escravizados no Brasil']",3,3,True,False
-5865745414275186002_0,0,Egypt,Objects / materials / clothing,الحاجات الملونة اللي في الصورة اسمها إيه في مصر؟,"['حاوية', 'صندوق', 'قلة', 'إناء']",2,2,True,False
-5865921724271878085_0,1,Brazil,Plants and animal,Que planta é essa?,"['Cacto', 'Alga marinha', 'Palmeira tropical', 'Vitória-régia']",3,3,True,False
-5865921714279540208_2,1,Brazil,Cooking and food,"Além de limão, cachaça e gelo, que outro ingrediente é usado na bebida mostrada na foto?","['Vodka', 'Sal', 'Triple sec', 'Açúcar']",3,3,True,False
-5865921724278457769_0,1,Brazil,Geography / buildings / landmarks,Que lugar é este?,"['Ilha de Páscoa', 'Praia de Copacabana', 'Praia de Boa Viagem', 'Arquipélago de Fernando de Noronha']",3,3,True,False
-5865745414274422834_0,0,Egypt,Cooking and food,إيه إسم الأكل ده؟,"['بسبوسة', 'بقلاوة', 'كحك', 'كنافة']",2,2,True,False
-5865745404271344489_1,0,Egypt,Vehicles and Transportation,المركبة اللي بيشير ليها السهم عندها كام شراع؟,"['٣', '٤', '٢', '١']",3,2,False,False
-5865745414274606339_0,0,Egypt,Geography / buildings / landmarks,في أنهي متحف في مصر اتخدت الصورة دي في سنة ٢٠٢٣؟,"['المتحف المصري الكبير', 'المتحف القومي للحضارة المصرية', 'متحف التحنيط', 'متحف الأقصر']",1,1,True,False
-5865921714279520278_1,1,Brazil,Brands / products / companies,Qual o significado do nome dessa empresa em sua língua original?,"['Pedra cantante', 'Rio dourado', 'Pedra preta', 'Chama eterna']",2,0,False,False
-5865921724276376594_0,1,Brazil,Sports and recreation,Que atividade recreativa é essa?,"['Pagode', 'Gafieira', 'Forró', 'Roda de samba']",3,3,True,False
-5865921714272993335_1,1,Brazil,Plants and animal,Qual o principal alimento desse animal?,"['Frutas', 'Peixes', 'Formigas e cupins', 'Pequenos mamíferos']",2,2,True,False
-5865921734271241967_0,1,Brazil,Public Figure and pop culture,Quem é a pessoa na foto?,"['Xuxa', 'Hebe Camargo', 'Carmen Miranda', 'Angélica']",0,3,False,False
-5865921724273569611_1,1,Brazil,Plants and animal,Onde é o habitat natural desse animal?,"['Cerrado', 'Floresta Amazônica', 'Parques urbanos', 'Pampas Gaúchos']",1,1,True,False
-5865745404273777720_0,0,Egypt,Geography / buildings / landmarks,إيه إسم الهيكل الأبيض الكبير اللي في شمال الصورة؟ ,"['مبني النيل', 'السد العالي', 'محطة تحلية مية البحر', 'مبني الإذاعة والتلفزيون']",1,1,True,False
-5865745414271566209_0,0,Egypt,Plants and animal,إيه إسم الحيوان اللي قاعد ورا الانسان اللي في الصورة؟,"['اللاما', 'زرافة', 'كنغر', 'جمل']",3,3,True,False
-5865921724271622539_1,1,Brazil,Plants and animal,Qual é o hábito alimentar deste animal?,"['Carnívoro', 'Detritívoro', 'Onívoro', 'Herbívoro']",3,3,True,False
-5865921714276226399_2,1,Brazil,Plants and animal,Como esse animal caça suas presas?,"['Perseguindo em alta velocidade', 'Nadando e mergulhando', 'Escalando árvores', 'Observação e emboscada']",3,3,True,False
-5865921544275330140_1,1,Brazil,People and everyday life,Que tipo de produto é vendido nas bancas vistas na foto?,"['Material de papelaria', 'Alimentos', 'Brinquedos', 'Roupas']",1,1,True,False
-5865745404273527458_0,0,Egypt,Sports and recreation,إيه إسم النشاط اللي بيقوم بيه الشخص اللي في الصورة؟,"['مشاهدة النجوم', 'المشي في الصحراء', 'التزلج على الرمال', 'التخييم في الصحراء']",2,2,True,False
-5865921724278669886_2,1,Brazil,Public Figure and pop culture,Qual o nome do mais famoso livro escrito pela pessoa nesta foto?,"['Macunaíma', 'O alquimista', 'Dom Casmurro', 'Capitães da areia']",1,1,True,False
-5865921734272985666_2,1,Brazil,Geography / buildings / landmarks,Que arquiteto é mundialmente conhecido pelo estilo arquitetônico mostrado na foto?,"['Frank Geary', 'Gaudí', 'Oscar Niemeyer', 'Santiago Calatrava']",2,2,True,False
-5865745414275081745_0,0,Egypt,Geography / buildings / landmarks,في أنهي مدينة في مصر يقع الفندق ده؟,"['دهب', 'القاهرة', 'أسوان', 'الأقصر']",2,2,True,False
-5865921714276665241_2,1,Brazil,Geography / buildings / landmarks,Qual o nome do bairro ao redor da montanha mostrada na foto?,"['Osasco', 'Urca', 'Cidade Baixa', 'Copacabana']",1,1,True,False
-5865921724278669886_1,1,Brazil,Public Figure and pop culture,Por que motivo a pessoa mostrada na foto é conhecida?,"['Por sua carreira como chefe de cozinha', 'Por sua carreira como escritor', 'Por sua carreira como esportista', 'Por sua carreira de dançarino na Broadway']",1,1,True,False
-5865921734273472362_1,1,Brazil,Geography / buildings / landmarks,Em que cidade fica localizada a estátua mostrada na foto?,"['Recife', 'Rio de Janeiro', 'São Paulo', 'Campina Grande']",1,1,True,False
-5865745404278163181_1,0,Egypt,Geography / buildings / landmarks,فيه كام مأذنة في الصورة؟,"['اتنين', 'تلاتة', 'واحدة', 'أربعة']",2,2,True,False
-5865745404274260775_1,0,Egypt,Plants and animal,إيه الشجر اللي موجود في الجزء الأعلى من الصورة؟,"['السايكادس', 'شجر الموز', 'نخل', 'شجر النيم']",2,2,True,False
-5865921734279859174_0,1,Brazil,Geography / buildings / landmarks,Que prédio é este?,"['Palácio Imperial de Petrópolis', 'Casa da Moeda do Brasil', 'Museu do Ipiranga', 'Biblioteca Nacional do Brasil']",2,0,False,False
-5865745404275445480_0,0,Egypt,Objects / materials / clothing,إيه إسم المسجد اللي على الورقة النقدية اللي متعلمة برقم '١' في الصورة؟,"[' مسجد السلطان حسن', ' مسجد بن طولون', ' الجامع الأزهر', ' مسجد محمد على']",0,0,True,False
-5865745414276293661_0,0,Egypt,Brands / products / companies,إسم الشخصية الكرتونية اللي في الصورة إيه؟,"['بوجى', 'طمطم', 'مرمر', 'بكار']",3,3,True,False
-5865745414272713489_0,0,Egypt,Cooking and food,إيه إسم الأكلة دي؟,"['كفتة', 'محشي كرمب', 'سجق', 'ممبار']",3,2,False,False
-5865745404275206054_0,0,Egypt,Traditions / art / history,الصورة دي بترمز لأنهي أوبريت مصري؟,"['شهرزاد', 'الليلة الكبيرة', 'المولد', 'السيرك']",1,1,True,False
-5865921714273558606_1,1,Brazil,Plants and animal,Em que continente esse animal é encontrado?,"['Oceania', 'Ásia', 'América do Sul', 'África']",2,2,True,False
-5865745414271562616_1,0,Egypt,Geography / buildings / landmarks,المعبد ده في أنهي بلد؟,"['اليونان', 'المكسيك', 'مصر', 'الأردن']",2,2,True,False
-5865921734271241967_1,1,Brazil,Public Figure and pop culture,Por que motivo a pessoa mostrada na foto é conhecida?,"['Por sua carreira como apresentadora de TV', 'Por sua carreira como política', 'Por sua carreira como chefe de cozinha', 'Por sua carreira como esportista']",0,0,True,False
-5865745404276766066_2,0,Egypt,Geography / buildings / landmarks,ايه الرسومات اللي علي الحيطة دي؟,"['رسومات مسيحية للمسيح', 'رسومات للتاريخ المصري علي مر السنين', 'رسم للحضارة المصرية القديمة', 'زخارف فرعونية']",0,0,True,False
-5865921724279756825_0,1,Brazil,Public Figure and pop culture,Quem é a pessoa na foto?,"['Tony Ramos', 'Gilberto Gil', 'Caetano Veloso', 'Getúlio Vargas']",2,2,True,False
-5865921734272985666_0,1,Brazil,Geography / buildings / landmarks,Que lugar é este?,"['É a Esplanada dos Ministérios, em Brasília', 'É a avenida Presidente Vargas, no Rio de Janeiro', 'É a avenida Paulista, em São Paulo', 'É a Avenida Afonso Pena, em Belo Horizonte']",0,0,True,False
-5865921714276665241_0,1,Brazil,Geography / buildings / landmarks,Que lugar é este?,"['Pelourinho', 'Pão de Açúcar', 'Copacabana', 'Avenida Paulista']",1,1,True,False
-5865921714274603466_1,1,Brazil,Cooking and food,Qual tipo de peixe é comumente utilizado na preparação desse prato típico?,"['Sardinhas', 'Atum', 'Salmão', 'Peixes brancos como robalo e badejo']",3,3,True,False
-5865921714273505712_0,1,Brazil,Brands / products / companies,Qual é o nome da marca mostrada na imagem?,"['Hering', 'Havan', 'Hércules', 'Havaianas']",0,0,True,False
-5865921734279252365_1,1,Brazil,Objects / materials / clothing,De que material é feito este filtro?,"['Aço', 'Barro', 'Pedra', 'Madeira']",1,1,True,False
-5865921734279859174_1,1,Brazil,Geography / buildings / landmarks,Em que cidade fica localizada a construção mostrada na foto?,"['Salvador', 'Belo Horizonte', 'Rio de Janeiro', 'São Paulo']",3,2,False,False
-5865921734275798818_0,1,Brazil,Geography / buildings / landmarks,Que tipo de construção é esta?,"['Sede de fazenda colonial', 'Hospital', 'Casa urbana', 'Escola']",0,0,True,False
-5865921734277107771_2,1,Brazil,Traditions / art / history,Em que lugar do Brasil é produzido este tipo de artesanato?,"['Ilha de Marajó', 'Juiz de Fora', 'Rio de Janeiro', 'São Paulo']",0,0,True,False
-5865745404275445480_2,0,Egypt,Objects / materials / clothing,إيه إسم المسجد اللي على الورقة النقدية اللي متعلمة برقم '٣' في الصورة؟,"[' مسجد محمد على', ' الجامع الأزهر', ' مسجد السلطان حسن', ' مسجد بن طولون']",3,0,False,False
-5865921724272030424_0,1,Brazil,Traditions / art / history,Qual o nome da tradicional festa popular retratada nesta foto?,"['Natal', 'Festa Junina', 'Carnaval', 'Páscoa']",1,1,True,False
-5865745404271344489_0,0,Egypt,Vehicles and Transportation,المركبة اللي بيشير ليها السهم اسمها إيه في مصر؟,"['عبارة', 'قارب', 'فلوكة', 'كيتش']",2,2,True,False
-5865921714273505712_2,1,Brazil,Brands / products / companies,Por qual campanha a marca mostrada na foto ficou conhecida no Brasil?,"['Adote uma criança', 'Criança Esperança', 'Médicos sem fronteiras', 'Câncer de mama no alvo da moda']",3,1,False,False
-5865745404274702390_0,0,Egypt,Sports and recreation,إيه اسم الرياضة اللي نشأت منها الرقص الشعبي المصري اللي في الصورة؟,"['بوجتسو', 'تحطيب', 'مبارزة', 'أرنيس']",1,1,True,False
-5865921724278872802_2,1,Brazil,People and everyday life,A iguaria apresentada nesta foto é típica da culinária de qual estado brasileiro?,"['Ceará', 'Bahia', 'Pernambuco', 'Minas Gerais']",1,1,True,False
-5865745414271845716_0,0,Egypt,Traditions / art / history,الحاجة دي اسمها إيه في مصر؟,"['سراج', 'فانوس', 'قنديل', 'مصباح']",1,1,True,False
-5865921734272370139_0,1,Brazil,Geography / buildings / landmarks,Que tipo de arquitetura é representado na imagem?,"['Arquitetura colonial', 'Arquitetura brutalista', 'Estilo neogótico', 'Arquitetura modernista']",0,0,True,False
-5865745404279579635_0,0,Egypt,People and everyday life,الولد ده بيعمل إيه بالحاجة اللي هو شايلها؟,"['بينضف الشاطئ', 'بيصطاد', 'بيطير طيارة ورق', 'بيبيع غزل بنات']",3,3,True,False
-5865921724271226128_0,1,Brazil,Geography / buildings / landmarks,Que lugar é este?,"['Jardim Botânico de Curitiba', 'Praia de Copacabana', 'Monumento dos Bandeirantes', 'Arcos da Lapa']",0,0,True,False
-5865745404273793694_0,0,Egypt,Objects / materials / clothing,إيه نوع الوثيقة المصرية اللي على يمين الصورة؟ ,"['جواز سفر', 'وثيقة إذن عمل بالهيئات الأجنبية (خارج البلاد)', 'رخصة قيادة دولية', 'بطاقة الرقم القومى']",0,0,True,False
-5865745404272698923_1,0,Egypt,Geography / buildings / landmarks,ايه وظيفة المبني ده؟,"['محطة اتوبيسات', 'مطار', 'متحف', 'محطة قطر']",3,3,True,False
-5865745414272668247_1,0,Egypt,Brands / products / companies,في أنهي سنة تأسس البنك ده؟,"['١٩٥٢', '١٨٢٦', '١٨٩٨', '١٩٢٠']",3,1,False,False
-5865921714276226399_1,1,Brazil,Plants and animal,Que continente é o habitat natural desse animal?,"['América do Norte', 'América do Sul', 'Europa', 'Oceania']",1,1,True,False
-5865921724279688994_2,1,Brazil,Vehicles and Transportation,Como é chamada o tipo de estrada em que que o veículo da foto está trafegando?,"['Rodovia estadual', 'Via expressa', 'Estrada de chão', 'BR']",2,2,True,False
-5865745414278530868_1,0,Egypt,Traditions / art / history,التمثال ده في أنهي بلد؟,"['مصر', 'الصين', 'اليونان', 'العراق']",0,0,True,False
-5865921714276665241_1,1,Brazil,Geography / buildings / landmarks,Em que cidade do Brasil fica o lugar mostrado na foto?,"['Belo Horizonte', 'Salvador', 'Rio de Janeiro', 'Manaus']",2,2,True,False
-5865921724272953682_0,1,Brazil,Brands / products / companies,Qual a marca desse produto?,"['Hering', 'Havaianas', 'Vulcabras', 'Carmen Steffens']",1,1,True,False
-5865921724278457769_1,1,Brazil,Geography / buildings / landmarks,Que nome é dado à formação rochosa mostrada na foto?,"['Morro da Urca', 'Morro da Providência', 'Morro Dois Irmãos', 'Morro do Corcovado']",2,2,True,False
-5865921734279252365_2,1,Brazil,Objects / materials / clothing,Como funciona o objeto mostrado na imagem?,"['Coloca-se fogo na parte de cima e água na parte de baixo', 'Coloca-se água na parte superior e ela é filtrada por gravidade para ser armazenada na parte inferior', 'Coloca-se vinho na parte superior para envelhecer na parte de baixo', 'A parte de cima esquenta a água e a parte de baixo armazena']",1,1,True,False
-5865745414278976001_0,0,Egypt,Traditions / art / history,إيه أول رمز هيروغليفي مصري قديم فوق في الصورة؟,"['عين رع', 'الجعران', 'العنخ (مفتاح الحياة)', 'جد']",2,2,True,False
-5865921724278368870_0,1,Brazil,Sports and recreation,Qual o nome desse jogo?,"['Críquete', 'Bete', 'Golfe', 'Beisebol']",1,1,True,False
-5865745414271845716_1,0,Egypt,Traditions / art / history,الحاجة دي بتستخدم كمظهر إحتفال لأنهي شهر إسلامي؟,"['رجب', 'رمضان', 'شوال', 'ذو الحجة']",1,1,True,False
-5865921724272018651_0,1,Brazil,Vehicles and Transportation,Qual a função do veículo azul nesta foto?,"['Transporte público de passageiros dentro de cidades', 'Transporte de militares', 'Transporte de animais', 'Transporte de pessoas feridas']",0,0,True,False
-5865745424273092767_0,0,Egypt,Traditions / art / history,إيه إسم الرقصة دي؟,"['رقصة التنورة', 'الرقصة الدائرية', 'الرقصة الشعبية', 'الرقصة المصرية']",0,0,True,False
-5865921724272085630_1,1,Brazil,Geography / buildings / landmarks,O que caracteriza a formação de relevo mostrada na foto?,"['A mistura de lagoas e dunas que se movimentam ininterruptamente', 'As ilhas rochosas e o mar aberto', 'As ondas gigantes e o mar aberto', 'As flores coloridas']",0,0,True,False
-5865921714272993335_2,1,Brazil,Plants and animal,Qual o principal habitat deste animal?,"['Cavernas', 'Pastagens e florestas', 'Desertos', 'Tundra']",1,1,True,False
-5865745404279595472_0,0,Egypt,Public Figure and pop culture,ايه اسم اللاعبة المصرية اللي في الصورة؟,"['سارة سمير', 'هداية ملاك', 'فريال أشرف', 'جيانا فاروق']",1,1,True,False
-5865745414272401184_0,0,Egypt,Geography / buildings / landmarks,إيه إسم الكوبري ده؟,"['كوبري إمبابة', 'كوبري 6 أكتوبر', 'كوبري قصر النيل', 'كوبري الزمالك']",2,2,True,False
+5865910674272329281_1,Chinese,China,Geography / buildings / landmarks,这座标志性的塔位于哪个省？,"['山东', '江苏', '西安', '山西']",2,2,True,False
+5865910664275383453_1,Chinese,China,Cooking and food,在中国传统文化中通常在什么节日吃它？,"['清明节', '农历新年', '端午节', '国庆节']",1,1,True,False
+5865921714274651543_0_en,English,Brazil,Objects / materials / clothing,What material is this object made from?,"['Stone', 'Plastic', 'Clay', 'Iron']",2,2,True,False
+5865921724279688994_0,Portuguese,Brazil,Vehicles and Transportation,Qual o nome do veículo retratado nesta foto?,"['Carro de boi', 'Carroça', 'Charrete', 'Carruagem']",0,0,True,False
+5865910684279167309_0,Chinese,China,Plants and animal,这是什么鸟？,"['白鹤', '丹顶鹤', '火烈鸟', '秃鹳']",1,1,True,False
+5865941044276715033_1,Chinese,Singapore,Geography / buildings / landmarks,谁主持了这座雕像的安装仪式？,"['李光耀', '林浪新', '郑世强', '布仑纳']",0,0,True,False
+5865910674271705429_1,Chinese,China,Objects / materials / clothing,请问图中的装饰物通常出现在什么场所？,"['水塔', '教堂', '寺庙', '陵墓']",2,2,True,False
+5865921714276184199_0,Portuguese,Brazil,Cooking and food,Que prato típico é mostrado à esquerda da foto?,"['Pamonha', 'Feijoada', 'Paçoca', 'Pirão']",0,0,True,False
+5865910694275843511_0,Chinese,China,Cooking and food,这是什么食物？,"['鸡汤', '千叶豆腐', '面条', '煮干丝']",3,2,False,False
+5865921724278795045_1_en,English,Brazil,Traditions / art / history,Who is the author of the work of art depicted in the photo?,"['Di Cavalcanti', 'Cândido Portinari', 'Tarsila do Amaral', 'Pedro Américo']",2,2,True,False
+5865921724272396644_1_en,English,Brazil,Cooking and food,What are the main ingredient in this dish?,"['Rice flour and sugar', 'Cornmeal and butter', 'Wheat flour and butter', 'Cassava starch and cheese']",3,3,True,False
+5865910664274830016_0,Chinese,China,Cooking and food,图中这种经典吃法叫什么名字？,"['烤肉', '刺身', '涮牛肉', '涮羊肉']",3,3,True,False
+5865921714273430619_0,Portuguese,Brazil,Public Figure and pop culture,Quem é essa pessoa?,"['Rodrigo Santoro', 'Matheus Nachtergaele', 'Lázaro Ramos', 'Selton Mello']",0,0,True,False
+5865941054277281187_0,Chinese,Singapore,Sports and recreation,图中的人在做什么？,"['跳舞', '唱歌', '聊天', '太极']",3,3,True,False
+5865941044275296417_0,Chinese,Singapore,Geography / buildings / landmarks,它为什么在游客中很受欢迎？,"['新加坡最大的国家公园', '新加坡最出色的教育中心', '新加坡的机场景点星耀樟宜', '新加坡的国家吉祥物和象征']",3,3,True,False
+5865910664276876312_1,Chinese,China,Geography / buildings / landmarks,请问图中最有可能是中国的哪个区域？,"['北方地区', '东南地区', '华北地区', '西南地区']",0,0,True,False
+5865921724278669886_2,Portuguese,Brazil,Public Figure and pop culture,Qual o nome do mais famoso livro escrito pela pessoa nesta foto?,"['Macunaíma', 'O alquimista', 'Dom Casmurro', 'Capitães da areia']",1,1,True,False
+5865921724272018651_0,Portuguese,Brazil,Vehicles and Transportation,Qual a função do veículo azul nesta foto?,"['Transporte público de passageiros dentro de cidades', 'Transporte de militares', 'Transporte de animais', 'Transporte de pessoas feridas']",0,0,True,False
+5865910664275653491_0,Chinese,China,Geography / buildings / landmarks,图中这个雕塑是哪位知名中国历史人物？,"['康熙皇帝', '孔子', '秦始皇', '孙悟空']",2,1,False,False
+5865921734273845461_0,Portuguese,Brazil,Public Figure and pop culture,Quem é a pessoa na foto?,"['Silvio Santos', 'Fausto Silva', 'Roberto Carlos', 'Juscelino Kubitschek']",0,0,True,False
+5865941054271253018_0,Chinese,Singapore,People and everyday life,为什么图中的人在骑摩托车？,"['观光', '锻炼', '回家', '送餐']",3,3,True,False
+5865910694275430127_0,Chinese,China,Geography / buildings / landmarks,这是什么建筑？,"['白金汉宫', '克里姆林宫', '白宫', '故宫']",3,3,True,False
+5865921734277107771_0_en,English,Brazil,Traditions / art / history,What kind of craftsmanship is this?,"['Glass vase', 'Marajoara pottery', 'Aztec Stone Carving', 'Carved wood']",1,1,True,False
+5865921714276293150_2,Portuguese,Brazil,Public Figure and pop culture,A qual grupo indígena essa pessoa pertence?,"['Guarani', 'Krenak', 'Xavante', 'Yanomami']",1,1,True,False
+5865921714276226399_1_en,English,Brazil,Plants and animal,Which continent is the natural habitat of this animal?,"['North America', 'South America', 'Europe', 'Oceania']",1,1,True,False
+5865921724276128203_2,Portuguese,Brazil,Sports and recreation,O que representa a pintura na parede mostrada ao fundo na foto?,"['Um médico', 'Um malandro', 'Um professor', 'Um policial']",1,1,True,False
+5865921724273569611_0_en,English,Brazil,Plants and animal,What animal is this?,"['Parrot', 'Hyacinth macaw', 'Toucan', 'Parakeet']",1,1,True,False
+5865921724272670398_0,Portuguese,Brazil,Plants and animal,Que animal é esse?,"['Capivara', 'Urso', 'Tigre', 'Onça pintada']",3,3,True,False
+5865921714273558606_2,Portuguese,Brazil,Plants and animal,Qual o habitat desse animal?,"['Desertos', 'Tundra', 'Ambientes aquáticos', 'Montanhas']",2,2,True,False
+5865910674272393747_1,Chinese,China,Geography / buildings / landmarks,这座建筑是哪个地方的标志性建筑物？,"['重庆', '天津', '上海', '北京']",3,3,True,False
+5865941054278310786_1,Chinese,Singapore,Traditions / art / history,为什么他们要撒芝麻？,"['为了生意兴隆', '为了风水', '为了财富', '为了健康']",0,0,True,False
+5865921724273326810_0_en,English,Brazil,Traditions / art / history,What is the name of the traditional popular festival depicted in this photo?,"['Micareta', 'June Festival', 'Carnaval', 'Boi-bumbá']",3,3,True,False
+5865921714271008740_0,Portuguese,Brazil,Geography / buildings / landmarks,Que prédio é este?,"['Palácio dos Arcos', 'Palácio Rio Branco', 'Palácio do Planalto', 'Palácio Guanabara']",1,1,True,False
+5865921734276048062_0_en,English,Brazil,Public Figure and pop culture,Who is the person in the photo?,"['Roberta Miranda', 'Marta', 'Sandy', 'Anitta']",3,3,True,False
+5865921724271226128_2_en,English,Brazil,Geography / buildings / landmarks,In which Brazilian State is the place shown in the picture?,"['Paraná', 'São Paulo', 'Minas Gerais', 'Amazonas']",0,0,True,False
+5865941064274206244_0,Chinese,Singapore,Geography / buildings / landmarks,图中蓝色建筑的作用是什么？,"['博物馆', '剧院', '电影院', '图书馆']",0,0,True,False
+5865921714273558606_1_en,English,Brazil,Plants and animal,On which continent is this animal found?,"['Oceania', 'Asia', 'South America', 'Africa']",2,2,True,False
+5865921734272835772_0_en,English,Brazil,Cooking and food,What desert is this?,"['Fruit jelly', 'Brigadeiro', 'Chocolate cake', 'Condensed milk pudding']",3,3,True,False
+5865910674275661528_2,Chinese,China,People and everyday life,请问她们平常在什么地方从事这些活动？,"['学校', '广场', '商场', '步行街']",1,1,True,False
+5865921724273589087_0_en,English,Brazil,Traditions / art / history,Who is the author of the sculpture in the photo?,"['Aleijadinho', 'Tarsila do Amaral', 'Michelangelo', 'Romero Brito']",0,0,True,False
+5865910684277574728_0,Chinese,China,Traditions / art / history,这是什么传统活动？,"['舞狮', '跳舞', '杂技', '武术']",0,0,True,False
+5865921734273050896_1,Portuguese,Brazil,Public Figure and pop culture,Como a pessoa mostrada na foto começou sua carreira?,"['Como cantor', 'Como esportista', 'Como líder sindical', 'Como artista pop']",2,2,True,False
+5865910684275278248_0,Chinese,China,Sports and recreation,这是什么棋？,"['跳棋', '象棋', '围棋', '军棋']",2,2,True,False
+5865921724278795045_1,Portuguese,Brazil,Traditions / art / history,De quem é a autoria da obra de arte retratada na foto?,"['Di Cavalcanti', 'Cândido Portinari', 'Tarsila do Amaral', 'Pedro Américo']",2,2,True,False
+5865921724278457769_1_en,English,Brazil,Geography / buildings / landmarks,Which is the name of the rock formation shown in the picture,"['Urca Hill', 'Providence Hill', 'The Hill of the Two Brothers', 'Corcovado Hill']",2,2,True,False
+5865941054275946269_2,Chinese,Singapore,Public Figure and pop culture,图中人物作品的主要语言是什么？,"['马来语', '粤语', '中文', '英语']",2,2,True,False
+5865941054279861444_1,Chinese,Singapore,Brands / products / companies,图中的店出售什么商品？,"['酒水', '咖啡', '面包', '书']",1,1,True,False
+5865910694271174498_0,Chinese,China,Traditions / art / history,这叫什么名字？,"['皮影戏', '黄梅戏', '京剧', '越剧']",0,0,True,False
+5865921714273558606_2_en,English,Brazil,Plants and animal,What is the habitat of this animal?,"['Deserts', 'Tundra', 'Aquatic environments', 'Mountains']",2,2,True,False
+5865921724276490167_1_en,English,Brazil,Brands / products / companies,Which country is this product from?,"['Brazil', 'Japan', 'France', 'Australia']",0,0,True,False
+5865921714277382984_1_en,English,Brazil,Geography / buildings / landmarks,What is the tall yellow construction shown in the picture?,"['Christ the Redeemer', 'Government headquarters', 'Hospital', 'Lacerda Elevator']",3,3,True,False
+5865921734274186008_0_en,English,Brazil,Cooking and food,What typical dish is this?,"['Feijoada', 'Trooper beans', 'Mashed beets', 'Açaí bowl']",3,3,True,False
+5865921714274652953_1,Portuguese,Brazil,Objects / materials / clothing,Como são feitos os objetos mostrados na foto?,"['São feitos derretendo borracha', 'São feitos trançando palha', 'São feitos soldando metal', 'São feitos costurando couro']",1,1,True,False
+5865921724279215340_0_en,English,Brazil,Plants and animal,What animal is this?,"['Fox', 'Maned wolf', 'Hyena', 'Coyote']",1,1,True,False
+5865910664271717886_1,Chinese,China,Traditions / art / history,这种乐器起源于哪个朝代？,"['唐朝', '清朝', '明朝', '宋朝']",0,0,True,False
+5865910674276140013_1,Chinese,China,Traditions / art / history,图中所在的景区或博物馆在中国的哪个省份？,"['四川', '上海', '湖南', '北京']",0,3,False,False
+5865941044274772095_1,Chinese,Singapore,Cooking and food,在什么活动中这种小吃会更受欢迎？,"['农历新年', '月饼节', '圣诞节', '端午节']",0,0,True,False
+5865921724275171638_0_en,English,Brazil,Plants and animal,What animal is this?,"['Gorilla', 'Golden lion tamarin', 'Squirrel', 'Chimpanzee']",1,1,True,False
+5865921714276184199_2_en,English,Brazil,Cooking and food,How does one cook the typical dish shown to the left of the picture?,"['It is boiled in water inside the corn husk', 'It is frozen', 'It is oven baked', 'It is deep fried']",0,0,True,False
+5865910664276998290_1,Chinese,China,Geography / buildings / landmarks,这座古迹名山位于哪个地方？,"['浙江杭州', '四川广元', '安徽黄山', '山西忻州']",3,3,True,False
+5865921724272758350_1,Portuguese,Brazil,Plants and animal,Qual o continente nativo desta árvore?,"['América do Sul', 'África', 'Ásia', 'América do Norte']",0,0,True,False
+5865941054278310786_0,Chinese,Singapore,Traditions / art / history,这是什么庆祝活动？,"['阳历新年', '捞鱼生', '妆艺大游行', '端午节']",1,1,True,False
+5865910674273458190_1,Chinese,China,Objects / materials / clothing,手中拿的是什么乐器？,"['小提琴', '马头琴', '板胡', '二胡']",3,3,True,False
+5865921714278479218_1_en,English,Brazil,Public Figure and pop culture,What international award has this person been nominated for?,"['Nobel', 'Grammy', 'Pulitzer', 'Oscar']",3,0,False,False
+5865921724272758350_0_en,English,Brazil,Plants and animal,What tree is this?,"['Maple', 'Yellow Ipê', 'Jacaranda', 'Cherry Blossom']",1,1,True,False
+5865921734271148267_1,Portuguese,Brazil,Cooking and food,Que ingrediente típico do Cerrado é usado no recheio deste prato?,"['Guabiroba', 'Couve', 'Milho', 'Porco']",0,0,True,False
+5865921734274161130_0_en,English,Brazil,Public Figure and pop culture,Who is the person in the photo?,"['Nelson Mandela', 'Michael Jackson. ', 'Michael Jackson', 'Pelé']",3,3,True,False
+5865921724278669886_2_en,English,Brazil,Public Figure and pop culture,What is the name of the most famous book written by the person in this photo?,"['Macunaíma', 'The alchemist', 'Dom Casmurro', 'Captains of the sands']",1,1,True,False
+5865910664276876312_0,Chinese,China,Geography / buildings / landmarks,请问图中最有可能是中国的哪个地方？,"['上海', '内蒙古', '广东', '香港']",1,1,True,False
+5865921714274651543_0,Portuguese,Brazil,Objects / materials / clothing,De que material é feito esse objeto?,"['Pedra', 'Plástico', 'Barro', 'Ferro']",2,2,True,False
+5865921724272396644_1,Portuguese,Brazil,Cooking and food,Quais os principais ingredientes desse prato?,"['Farinha de arroz e açúcar', 'Farinha de milho e manteiga', 'Farinha de trigo e manteiga', 'Polvilho e queijo']",3,3,True,False
+5865910664277319101_1,Chinese,China,Objects / materials / clothing,图中这个工具通常在什么季节使用？,"['秋天', '冬天', '春天', '夏天']",3,0,False,False
+5865921724279756825_2,Portuguese,Brazil,Public Figure and pop culture,Em qual estado brasileiro nasceu a pessoa desta foto?,"['Bahia', 'Minas Gerais', 'Ceará', 'Pernambuco']",0,1,False,False
+5865941054277366124_0,Chinese,Singapore,Plants and animal,图中是是什么植物？,"['猪笼草', '毒藤', '芭蕉', '蕨麻']",0,0,True,False
+5865921734279252365_2_en,English,Brazil,Objects / materials / clothing,How does the object shown in the picture work?,"['A fire is lit in the upper part and water is poured into the lower part', 'Water is poured into the upper part, gravity-filtered and stored in the lower part', 'Wine is poured into the upper part to age in the lower part', 'The upper part heats the water and the lower part stores it']",1,1,True,False
+5865921734277107771_0,Portuguese,Brazil,Traditions / art / history,Que tipo de artesanato é este?,"['Vaso de vidro', 'Cerâmica marajoara', 'Escultura em Pedra Asteca', 'Madeira entalhada']",1,1,True,False
+5865921724278567283_2,Portuguese,Brazil,Sports and recreation,Qual a carta mais alta no jogo mostrado na foto?,"['Sete de ouros', 'Às de espadas', 'Sete de copas', 'Quatro de paus']",3,,False,True
+5865921734279510468_1_en,English,Brazil,Cooking and food,What does the difference between the two pastéis indicate?,"['That one of them is gluten-free', 'That its filling is different from the one in the other pastel', 'That one of them is for children', 'That one of them is lactose-free']",1,1,True,False
+5865921714271027281_1,Portuguese,Brazil,Geography / buildings / landmarks,O que é o prédio histórico mostrado na foto?,"['Museu da eletricidade', 'Hospital municipal', 'Observatório', 'Prefeitura']",3,3,True,False
+5865921544275330140_1,Portuguese,Brazil,People and everyday life,Que tipo de produto é vendido nas bancas vistas na foto?,"['Material de papelaria', 'Alimentos', 'Brinquedos', 'Roupas']",1,1,True,False
+5865921734273472362_2_en,English,Brazil,Geography / buildings / landmarks,What is the name of the mountain where this statue is located?,"['Sugar Loaf', ""Flag's Peak"", ""Fog's Peak"", 'Corcovado']",3,3,True,False
+5865921724273769462_0,Portuguese,Brazil,Cooking and food,Qual é o principal ingrediente aromatizante desta bebida?,"['Morango', 'Extrato de guaraná', 'Baunilha', 'Abacaxi']",1,1,True,False
+5865921724276376594_1_en,English,Brazil,Sports and recreation,Where is the activity in the picture taking place?,"['In a club', 'At a samba school court', 'In a sports gym', 'In a barn']",1,1,True,False
+5865921724273569611_1,Portuguese,Brazil,Plants and animal,Onde é o habitat natural desse animal?,"['Cerrado', 'Floresta Amazônica', 'Parques urbanos', 'Pampas Gaúchos']",1,1,True,False
+5865941054279417961_1,Chinese,Singapore,Public Figure and pop culture,图中的人物的国籍是,"['新加坡', '中国', '日本', '马来西亚']",0,1,False,False
+5865921724273924245_0_en,English,Brazil,Geography / buildings / landmarks,What building is this?,"['Museum of Arts and Crafts', 'Car club', 'Ball House', 'Church of Saint Francis of Assisi']",3,3,True,False
+5865910684275930600_1,Chinese,China,Cooking and food,图片美食是用什么材料包装的？,"['芦苇叶', '芭蕉叶', '荷叶', '柳树叶']",0,2,False,False
+5865921724277023635_2_en,English,Brazil,Sports and recreation,In which Brazilian city was the sport shown in the picture created?,"['Juiz de Fora', 'Recife', 'Ponte Nova', 'Rio de Janeiro']",3,3,True,False
+5865910674279788587_0,Chinese,China,Brands / products / companies,这种样式的幡通常用在什么地方？,"['舞场', '学校', '当铺', '饭馆或客栈']",3,3,True,False
+5865921724278457769_0_en,English,Brazil,Geography / buildings / landmarks,Which place is this?,"['Easter Island', 'Copacabana beach', 'Boa Viagem beach', 'Fernando de Noronha archipelago']",3,3,True,False
+5865910664273883825_0,Chinese,China,Traditions / art / history,这是什么传统艺术？,"['皮影戏', '小玩偶', '机器人表演', '贴画']",0,0,True,False
+5865910674272856371_0,Chinese,China,Cooking and food,图中这个东西主要是用来干什么的？,"['食物', '武器', '灯笼', '画作']",0,0,True,False
+5865941054274983566_1,Chinese,Singapore,Objects / materials / clothing,图中女性的衣服名称是什么？,"['旗袍', '沙笼可芭雅', '和服', '纱丽']",1,1,True,False
+5865921724275917345_2,Portuguese,Brazil,Vehicles and Transportation,Qual é o propósito geral do uso do transporte retratado nesta foto?,"['Transporte de carga', 'Transporte de passageiros', 'Transporte de valores', 'Transporte de crianças']",0,0,True,False
+5865921714271008740_2,Portuguese,Brazil,Geography / buildings / landmarks,Qual estado brasileiro tem neste prédio a sede de seu governo?,"['Pará', 'Roraima', 'Acre', 'Mato Grosso do Sul']",2,1,False,False
+5865921724279756825_1,Portuguese,Brazil,Public Figure and pop culture,Por que motivo a pessoa mostrada na foto é conhecida?,"['Por sua carreira como chefe de cozinha', 'Por sua carreira como político', 'Por sua carreira como esportista', 'Por sua carreira como cantor e compositor']",3,3,True,False
+5865921724275917345_1_en,English,Brazil,Vehicles and Transportation,Which animal is typically used to traction the vehicle in the photo?,"['Dog', 'Ox', 'Horse', 'Elephant']",2,2,True,False
+5865921724272758350_1_en,English,Brazil,Plants and animal,Where is the native continent of this tree?,"['South America', 'Africa', 'Asia', 'North America']",0,0,True,False
+5865921714274603466_0,Portuguese,Brazil,Cooking and food,Qual o nome desse prato típico?,"['Moqueca', 'Pirão', 'Vatapá', 'Acarajé']",0,0,True,False
+5865921724276991380_2,Portuguese,Brazil,Traditions / art / history,Qual o material usado para fabricar o chapéu usado pelos músicos na foto?,"['Couro', 'Palha', 'Algodão', 'Feltro']",0,1,False,False
+5865921724279925605_1_en,English,Brazil,Traditions / art / history,On which date is the traditional popular and religious festival depicted in this photo celebrated?,"['On the second Sunday of February', 'On January 6th', 'On December 25th', 'On April 1st']",1,1,True,False
+5865910664277619378_0,Chinese,China,Plants and animal,这是什么鳄类？,"['美洲鳄', '凯门鳄', '扬子鳄', '尼罗鳄']",2,1,False,False
+5865921724279756825_1_en,English,Brazil,Public Figure and pop culture,What is the person shown in the photo known for?,"['For her carrer as a chef', 'For his carrer as a politician', 'For his career as a sportsperson', 'For his career as a singer and songwriter']",3,3,True,False
+5865921724275710484_1_en,English,Brazil,Vehicles and Transportation,What's the name of this vehicle?,"['Ambulance', 'Bus', 'Taxi', 'Patrol car']",3,3,True,False
+5865921724278895927_2,Portuguese,Brazil,People and everyday life,Como são conhecidos os locais construídos para abrigar bancas como as mostradas na foto?,"['Sambódromos', 'Camelódromos', 'Bumbódromos', 'Jegódromo']",1,1,True,False
+5865921734272896339_1_en,English,Brazil,Public Figure and pop culture,In which Brazilian State the person shown in the photo born?,"['São Paulo', 'Amapá', 'Rio Grande do Sul', 'Pernambuco']",0,0,True,False
+5865910674274264939_0,Chinese,China,Traditions / art / history,这是什么艺术？,"['彩绘', '皮影', '剪纸', '贴画']",2,2,True,False
+5865921724276376594_2,Portuguese,Brazil,Sports and recreation,Que nome se dá ao cantor do tipo de música representado na foto?,"['Puxador de samba', 'Seresteiro', 'Tenor', 'Barítono']",0,0,True,False
+5865921714272599641_0,Portuguese,Brazil,Sports and recreation,Qual arte marcial está sendo praticada nessa imagem?,"['Capoeira', 'Judô', 'Jiu-jitsu', 'Caratê']",0,0,True,False
+5865910684274558601_0,Chinese,China,Plants and animal,这是什么花？,"['杜鹃花', '玫瑰花', '牡丹花', '木棉花']",2,2,True,False
+5865921734272985666_0_en,English,Brazil,Geography / buildings / landmarks,Which place is this?,"['It is the Ministries Promenade, in Brasília', 'It is Presidente Vargas Avenue, in Rio de Janeiro', 'It is the Paulista Avenue , in São Paulo', 'It is the Afonso Pena Avenue, in Belo Horizonte']",0,0,True,False
+5865921724277641497_2,Portuguese,Brazil,Brands / products / companies,Qual é a forma mais comum de comer esse produto?,"['Com arroz', 'Com leite', 'Sozinho', 'Com salada']",2,2,True,False
+5865921714274479723_2_en,English,Brazil,Vehicles and Transportation,What is the name typically given to the place where goods are transported in the vehicle shown in the picture?,"['Helmet', 'Tank', 'Trunk', 'Chest']",3,2,False,False
+5865921724278872802_1,Portuguese,Brazil,People and everyday life,Qual o nome da iguaria que está sendo preparada pela pessoa retratada na foto?,"['Pamonha', 'Acarajé', 'Paçoca', 'Pão de queijo']",1,1,True,False
+5865921724272085630_0,Portuguese,Brazil,Geography / buildings / landmarks,Que lugar é este?,"['Jericoacoara', 'Lençóis Maranhenses', 'Praia de Boa Viagem', 'Praia de Copacabana']",1,1,True,False
+5865941044275790004_0,Chinese,Singapore,People and everyday life,这里怎样才能获得饮用水？,"['从免费饮水机那里', '从附近的水龙头里获取', '总是和食物一起提供的', '在饮料摊购买']",3,0,False,False
+5865941064279325167_2,Chinese,Singapore,Cooking and food,绿色条状物叫什么？,"['甘草', '果冻', '煎蕊', '仙草']",2,2,True,False
+5865921714276824661_0_en,English,Brazil,Brands / products / companies,What brand is this product?,"['Brahma', 'Skol', 'Bauhaus', 'Budweiser']",0,1,False,False
+5865941054278186519_0,Chinese,Singapore,Brands / products / companies,红色招牌的店铺类型是什么？,"['餐馆', '服装店', '家具店', '书店']",0,0,True,False
+5865921724273893726_2_en,English,Brazil,Traditions / art / history,In which months of the year can this movable feast pictured in the photo be celebrated?,"['November and December', 'July and August', 'February and March', 'May and June']",3,3,True,False
+5865910674274522108_0,Chinese,China,Traditions / art / history,这是什么文字？,"['象形字', '形体字', '隶书', '楷体字']",0,0,True,False
+5865910664275364554_1,Chinese,China,Geography / buildings / landmarks,这是什么菩萨像？,"['地藏菩萨', '普贤菩萨', '文殊菩萨', '弥勒菩萨']",0,3,False,False
+5865921714276938819_1_en,English,Brazil,Geography / buildings / landmarks,What is the name of the avenue shown in the picture?,"['Rio Branco', 'Atlântica', 'Paulista', 'Afonso Pena']",3,3,True,False
+5865921724272030424_2,Portuguese,Brazil,Traditions / art / history,Qual é o nome dado aos enfeites coloridos alocados em linha sobre o local do evento?,"['Bandeirolas', 'Chita', 'Fuxico', 'Mariolas']",0,0,True,False
+5865921724277757865_1_en,English,Brazil,Plants and animal,What are the spheres on the tree trunk?,"['Flowers', 'Grapes', 'Jabuticabas', 'Blueberries']",2,2,True,False
+5865921724271226128_0_en,English,Brazil,Geography / buildings / landmarks,Which place is this?,"['Curitiba Botanical Garden', 'Copacabana beach', 'Bandeirantes monument', 'Arcos da Lapa']",0,0,True,False
+5865921724273569611_2,Portuguese,Brazil,Plants and animal,Em qual continente está localizada a área nativa desse animal?,"['África', 'América do Sul', 'Ásia', 'Austrália']",1,1,True,False
+5865910664272109734_1,Chinese,China,Plants and animal,这种植物位于什么地方？,"['四川宜宾', '西藏拉萨', '广西南宁', '云南曲靖']",2,3,False,False
+5865910694279356357_0,Chinese,China,Traditions / art / history,这是哪个省份的艺术？,"['北京', '四川', '江苏', '重庆']",1,1,True,False
+5865910674278545668_1,Chinese,China,Objects / materials / clothing,图中的衣服反映出了哪种自然崇拜？,"['太阳崇拜', '石头', '飞鸟', '月亮']",0,2,False,False
+5865910684272254017_0,Chinese,China,Objects / materials / clothing,这是什么服装？,"['唐装', '和服', '吉袍', '汉服']",3,3,True,False
+5865941054272513039_0,Chinese,Singapore,Geography / buildings / landmarks,图中的白色建筑叫什么？,"['赞美广场', '泰姬陵', '白宫', '圣安德烈座堂']",3,3,True,False
+5865921724272564226_0,Portuguese,Brazil,Sports and recreation,Qual o nome da brincadeira retratada na foto?,"['Amarelinha', 'Cama de gato', 'Pique-esconde', 'Pega-pega']",1,1,True,False
+5865921724278567283_0_en,English,Brazil,Sports and recreation,What game is that?,"['Truco', 'Mexe mexe', 'Buraco', 'Poker']",0,0,True,False
+5865921734271148267_0,Portuguese,Brazil,Cooking and food,Que prato típico é este?,"['Feijão tropeiro', 'Torta de bacalhau', 'Empadão goiano', 'Feijoada']",2,2,True,False
+5865910684274960009_1,Chinese,China,Traditions / art / history,我们通常用图中的物品来做什么？,"['打架', '写字和画画', '吃饭', '旅行']",1,1,True,False
+5865921724278669886_1,Portuguese,Brazil,Public Figure and pop culture,Por que motivo a pessoa mostrada na foto é conhecida?,"['Por sua carreira como chefe de cozinha', 'Por sua carreira como escritor', 'Por sua carreira como esportista', 'Por sua carreira de dançarino na Broadway']",1,1,True,False
+5865941064276482107_0,Chinese,Singapore,Cooking and food, 这张图片里的食物通常是怎么烹制的？,"['蒸', '煮', '烤', '炸']",0,0,True,False
+5865921724272030424_1,Portuguese,Brazil,Traditions / art / history,"Qual é o nome dado à dança típica interpretada pelas pessoas na foto, como parte da festa popular retratada?","['Lambada', 'Quadrilha', 'Frevo', 'Samba']",1,1,True,False
+5865921714277382984_0_en,English,Brazil,Geography / buildings / landmarks,In which city can this construction be found?,"['Rio de Janeiro', 'São Paulo', 'Salvador', 'Florianópolis']",2,2,True,False
+5865910684272121226_0,Chinese,China,Traditions / art / history,这是哪个节日的传统习俗？,"['春节', '中秋节', '圣诞节', '元旦']",0,0,True,False
+5865910674271950573_1,Chinese,China,Geography / buildings / landmarks,这座著名的园林有什么美誉？,"['万园之园', '东南名园之冠', '苏州园林甲江南', '皇家园林博物馆']",2,1,False,False
+5865921724272670398_0_en,English,Brazil,Plants and animal,Which animal is this?,"['Capybara', 'Bear', 'Tiger', 'Onça pintada']",3,3,True,False
+5865921714277382984_1,Portuguese,Brazil,Geography / buildings / landmarks,O que é a construção alta e amarela mostrada na imagem?,"['Cristo Redentor', 'Sede do Governo', 'Hospital', 'Elevador Lacerda']",3,3,True,False
+5865921734274338104_2_en,English,Brazil,Cooking and food,Which fruit is typically served with this dish?,"['Passion fruit', 'Lime', 'Banana', 'Orange']",3,1,False,False
+5865910684272730176_0,Chinese,China,Geography / buildings / landmarks,这个建筑位于什么地方？,"['新疆吐鲁番', '西藏拉萨', '广东广州', '云南大理']",1,1,True,False
+5865921724272030424_0,Portuguese,Brazil,Traditions / art / history,Qual o nome da tradicional festa popular retratada nesta foto?,"['Natal', 'Festa Junina', 'Carnaval', 'Páscoa']",1,1,True,False
+5865921714279434118_0_en,English,Brazil,Objects / materials / clothing,What is the name of this recipient?,"['Pot', 'Cuia', 'Vase', 'Bowl']",1,1,True,False
+5865921734279510468_0,Portuguese,Brazil,Cooking and food,Que alimento é este?,"['Risole', 'Joelho de moça', 'Pastel', 'Coxinha de frango']",2,2,True,False
+5865941044275877413_0,Chinese,Singapore,Geography / buildings / landmarks,这里不允许你做什么？,"['坐着', '吃饭', '停车', '运动']",3,3,True,False
+5865921724271622539_0_en,English,Brazil,Plants and animal,What animal is this?,"['Beaver', 'Porcupine', 'Guinea pig', 'Capybara']",3,3,True,False
+5865921714276184199_1_en,English,Brazil,Cooking and food,Which is the basic ingredient in the dish shown to the left of the picture?,"['Potato', 'Beef', 'Corn', 'Tomato']",2,2,True,False
+5865921714273558606_1,Portuguese,Brazil,Plants and animal,Em que continente esse animal é encontrado?,"['Oceania', 'Ásia', 'América do Sul', 'África']",2,2,True,False
+5865921724279215340_2_en,English,Brazil,Plants and animal,What is the primary diet of this animal?,"['Fish and aquatic plants', 'Grass and leaves', 'Small mammals, fruits, and vegetables', 'Carrion']",2,2,True,False
+5865910684274034457_0,Chinese,China,Traditions / art / history,这代表什么节日？,"['端午节', '七夕节', '元旦', '春节']",3,3,True,False
+5865910674272466659_0,Chinese,China,Traditions / art / history,这是一种在中国常见的传统活动，请问它的名字是？,"['烟花', '泼水', '武术', '打铁花']",3,3,True,False
+5865921734274338104_1,Portuguese,Brazil,Cooking and food,Quais são os dois principais ingredientes desse prato típico?,"['Carne e legumes', 'Arroz e feijão', 'Feijão e carne de porco', 'Frango e peixe']",2,2,True,False
+5865921734274161130_1_en,English,Brazil,Public Figure and pop culture,In which Brazilian State was the person in the picture born?,"['São Paulo', 'Rio de Janeiro', 'Espírito Santo', 'Minas Gerais']",3,0,False,False
+5865941064275453977_0,Chinese,Singapore,Cooking and food,这是什么水果？,"['榴莲', '山竹', '红毛丹', '菠萝蜜']",3,3,True,False
+5865921724279925605_1,Portuguese,Brazil,Traditions / art / history,Em que data é celebrada a tradicional festa popular e religiosa retratada nesta foto?,"['No segundo domingo de fevereiro', 'No dia 6 de janeiro', 'No dia 25 de dezembro', 'No dia 1º de abril']",1,1,True,False
+5865941064272683818_0,Chinese,Singapore,People and everyday life,图中骑自行车的人车上的箱子一般用来装什么？,"['个人物品', '垃圾', '书', '食物']",3,3,True,False
+5865910684273444114_0,Chinese,China,Geography / buildings / landmarks,这是什么桥？,"['卢沟桥', '赵州桥', '广济桥', '洛阳桥']",0,0,True,False
+5865921714272599641_1,Portuguese,Brazil,Sports and recreation,Qual o nome do instrumento musical típico da prática dessa arte marcial?,"['Ukulele', 'Violão', 'Berimbau', 'Flauta']",2,2,True,False
+5865921724275917345_2_en,English,Brazil,Vehicles and Transportation,What is the general purpose of using the transportation depicted in this photo?,"['Cargo transportation', 'Passenger trasnport', 'Valuables transport', 'Transport of children']",0,0,True,False
+5865921724274864867_0_en,English,Brazil,Vehicles and Transportation,What are the make and model of the vehicle in this photo?,"['Ford Gol', 'Volkswagen Kombi', 'Volkswagen Fusca', 'Chevrolet Opala']",2,2,True,False
+5865921724278872802_0,Portuguese,Brazil,People and everyday life,Como é conhecida essa pessoa vestida de branco na foto?,"['Iemanjá', 'Cearense', 'Baiana', 'Cigana']",2,2,True,False
+5865910684278354531_0,Chinese,China,Cooking and food,上图是什么特色美食？,"['面条', '肉汤', '面汤', '兰州拉面']",3,3,True,False
+5865921724275522377_1,Portuguese,Brazil,Traditions / art / history,Qual cidade brasileira sedia a versão mundialmente mais famosa do evento retratado na foto?,"['Manaus', 'Belo Horizonte', 'Rio de Janeiro', 'Brasília']",2,2,True,False
+5865921714271027281_0,Portuguese,Brazil,Geography / buildings / landmarks,Em que cidade brasileira fica este prédio?,"['Maceió', 'Juiz de Fora', 'São Paulo', 'Natal']",1,1,True,False
+5865941064275084723_0,Chinese,Singapore,Traditions / art / history,图中的卡通人物与哪个吉祥寓意最相关？,"['事业', '健康', '家庭', '财富']",3,3,True,False
+5865921714279492186_2,Portuguese,Brazil,Vehicles and Transportation,Qual categoria de habilitação é necessária para dirigir o veículo mostrado na foto no Brasil?,"['A', 'D', 'C', 'B']",1,1,True,False
+5865921714272599641_2,Portuguese,Brazil,Sports and recreation,Quem tradicionalmente praticava essa arte marcial?,"['Imigrantes asiáticos', 'Colonos europeus', 'Nativos americanos', 'Africanos escravizados no Brasil']",3,3,True,False
+5865910664275013697_1,Chinese,China,Plants and animal,这种动物主要栖息在哪里？,"['云南', '西藏', '四川', '广东']",1,1,True,False
+5865941054271584589_0,Chinese,Singapore,Brands / products / companies,图中的店的品牌来自哪一个国家？,"['中国', '日本', '新加坡', '美国']",2,2,True,False
+5865941054272262238_0,Chinese,Singapore,Brands / products / companies,图中的飞机属于哪家航空公司？,"['酷航', '美联航', '新加坡航空', '达美航空']",2,2,True,False
+5865921714274479723_0_en,English,Brazil,Vehicles and Transportation,What is the popular name for the person driving the vehicle in this photo?,"['Pilot', 'Trucker', 'Motorcycle courier', 'Biker']",2,2,True,False
+5865910674273458190_0,Chinese,China,Objects / materials / clothing,这是什么服装？,"['裙子', '旗袍', '和服', '吉袍']",1,1,True,False
+5865921734279704418_1_en,English,Brazil,Geography / buildings / landmarks,Which kind of architecture is represented in the image?,"['Brutalist style', 'Neoclassic style', 'Colonial architecture', 'Modernist style']",2,2,True,False
+5865921724276991380_0,Portuguese,Brazil,Traditions / art / history,"Considerando os instrumentos musicais e o figurino dos músicos retratados nesta foto, qual gênero musical eles estão tocando?","['Bossa nova', 'Forró', 'Axé', 'Samba']",1,1,True,False
+5865921724272396644_2,Portuguese,Brazil,Cooking and food,Que tipos de queijos são comumente utilizados nesse prato?,"['Cheddar ou queijo suíço', 'Mussarela ou queijo feta', 'Queijo azul ou Gorgonzola', 'Parmesão ou queijo Minas']",3,3,True,False
+5865921724273924245_2,Portuguese,Brazil,Geography / buildings / landmarks,Que arquiteto desenhou o prédio mostrado na imagem?,"['Frank Geary', 'Calatrava', 'Oscar Niemeyer', 'Athos Bulcão']",2,2,True,False
