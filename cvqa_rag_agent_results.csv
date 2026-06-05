@@ -1,182 +1,38 @@
 question_id,base_question_id,language,country,category,label,correct_answer,predicted,is_correct,is_null,run_type,retrieve_similar_question,retrieve_similar_image,retrieve_prompt_image_by_qid,retrieve_image_by_qid,retrieve_wikipedia_passages,wikipedia_rag_tool,final_answer
 5865910674272329281_1,5865910674272329281_1,Chinese,China,Geography / buildings / landmarks,2,西安,3,False,False,rag,True,True,True,False,False,False,True
-5865910664275383453_1,5865910664275383453_1,Chinese,China,Cooking and food,1,农历新年,1,True,False,rag,True,True,True,False,False,False,True
-5865921714274651543_0_en,5865921714274651543_0,English,Brazil,Objects / materials / clothing,2,Clay,2,True,False,rag,True,True,True,False,False,False,True
-5865921724279688994_0,5865921724279688994_0,Portuguese,Brazil,Vehicles and Transportation,0,Carro de boi,0,True,False,rag,True,False,True,False,False,False,True
-5865910684279167309_0,5865910684279167309_0,Chinese,China,Plants and animal,1,丹顶鹤,1,True,False,rag,True,True,True,False,False,False,True
 5865941044276715033_1,5865941044276715033_1,Chinese,Singapore,Geography / buildings / landmarks,0,李光耀,0,True,False,rag,True,False,True,False,True,True,True
-5865910674271705429_1,5865910674271705429_1,Chinese,China,Objects / materials / clothing,2,寺庙,2,True,False,rag,True,True,True,False,False,False,True
-5865921714276184199_0,5865921714276184199_0,Portuguese,Brazil,Cooking and food,0,Pamonha,0,True,False,rag,True,False,True,False,False,False,True
-5865910694275843511_0,5865910694275843511_0,Chinese,China,Cooking and food,3,煮干丝,1,False,False,rag,True,False,True,False,False,False,True
-5865921724278795045_1_en,5865921724278795045_1,English,Brazil,Traditions / art / history,2,Tarsila do Amaral,2,True,False,rag,True,False,True,False,False,True,True
-5865921724272396644_1_en,5865921724272396644_1,English,Brazil,Cooking and food,3,Cassava starch and cheese,3,True,False,rag,True,True,True,False,False,False,True
-5865910664274830016_0,5865910664274830016_0,Chinese,China,Cooking and food,3,涮羊肉,3,True,False,rag,True,False,True,False,False,False,True
-5865921714273430619_0,5865921714273430619_0,Portuguese,Brazil,Public Figure and pop culture,0,Rodrigo Santoro,3,False,False,rag,True,False,True,False,False,False,True
-5865941054277281187_0,5865941054277281187_0,Chinese,Singapore,Sports and recreation,3,太极,3,True,False,rag,True,False,True,False,False,False,True
-5865941044275296417_0,5865941044275296417_0,Chinese,Singapore,Geography / buildings / landmarks,3,新加坡的国家吉祥物和象征,2,False,False,rag,True,False,True,False,False,True,True
-5865910664276876312_1,5865910664276876312_1,Chinese,China,Geography / buildings / landmarks,0,北方地区,3,False,False,rag,True,False,True,False,False,False,True
-5865921724278669886_2,5865921724278669886_2,Portuguese,Brazil,Public Figure and pop culture,1,O alquimista,1,True,False,rag,True,True,True,False,False,False,True
-5865921724272018651_0,5865921724272018651_0,Portuguese,Brazil,Vehicles and Transportation,0,Transporte público de passageiros dentro de cidades,0,True,False,rag,True,True,True,False,False,False,True
-5865910664275653491_0,5865910664275653491_0,Chinese,China,Geography / buildings / landmarks,2,秦始皇,1,False,False,rag,True,False,True,False,False,False,True
-5865921734273845461_0,5865921734273845461_0,Portuguese,Brazil,Public Figure and pop culture,0,Silvio Santos,0,True,False,rag,True,True,True,False,False,False,True
+5865921724272396644_1_en,5865921724272396644_1,English,Brazil,Cooking and food,3,Cassava starch and cheese,3,True,False,rag,True,False,True,False,True,True,True
+5865910664276876312_1,5865910664276876312_1,Chinese,China,Geography / buildings / landmarks,0,北方地区,3,False,False,rag,True,True,True,True,False,False,True
 5865941054271253018_0,5865941054271253018_0,Chinese,Singapore,People and everyday life,3,送餐,3,True,False,rag,True,True,True,False,False,False,True
-5865910694275430127_0,5865910694275430127_0,Chinese,China,Geography / buildings / landmarks,3,故宫,3,True,False,rag,True,True,True,False,False,False,True
-5865921734277107771_0_en,5865921734277107771_0,English,Brazil,Traditions / art / history,1,Marajoara pottery,1,True,False,rag,True,False,True,False,False,False,True
-5865921714276293150_2,5865921714276293150_2,Portuguese,Brazil,Public Figure and pop culture,1,Krenak,1,True,False,rag,True,False,True,False,False,True,True
-5865921714276226399_1_en,5865921714276226399_1,English,Brazil,Plants and animal,1,South America,1,True,False,rag,True,True,True,False,False,False,True
 5865921724276128203_2,5865921724276128203_2,Portuguese,Brazil,Sports and recreation,1,Um malandro,1,True,False,rag,True,True,True,False,False,False,True
-5865921724273569611_0_en,5865921724273569611_0,English,Brazil,Plants and animal,1,Hyacinth macaw,1,True,False,rag,True,True,True,False,False,False,True
-5865921724272670398_0,5865921724272670398_0,Portuguese,Brazil,Plants and animal,3,Onça pintada,0,False,False,rag,False,False,True,False,False,False,True
-5865921714273558606_2,5865921714273558606_2,Portuguese,Brazil,Plants and animal,2,Ambientes aquáticos,2,True,False,rag,True,True,True,False,False,False,True
-5865910674272393747_1,5865910674272393747_1,Chinese,China,Geography / buildings / landmarks,3,北京,2,False,False,rag,False,False,True,False,False,False,True
 5865941054278310786_1,5865941054278310786_1,Chinese,Singapore,Traditions / art / history,0,为了生意兴隆,0,True,False,rag,True,False,True,False,True,False,True
-5865921724273326810_0_en,5865921724273326810_0,English,Brazil,Traditions / art / history,3,Boi-bumbá,3,True,False,rag,True,False,True,False,False,False,True
-5865921714271008740_0,5865921714271008740_0,Portuguese,Brazil,Geography / buildings / landmarks,1,Palácio Rio Branco,1,True,False,rag,True,True,True,False,False,False,True
-5865921734276048062_0_en,5865921734276048062_0,English,Brazil,Public Figure and pop culture,3,Anitta,3,True,False,rag,False,True,True,False,False,False,True
-5865921724271226128_2_en,5865921724271226128_2,English,Brazil,Geography / buildings / landmarks,0,Paraná,0,True,False,rag,False,True,True,False,False,False,True
-5865941064274206244_0,5865941064274206244_0,Chinese,Singapore,Geography / buildings / landmarks,0,博物馆,1,False,False,rag,True,True,True,False,False,False,True
-5865921714273558606_1_en,5865921714273558606_1,English,Brazil,Plants and animal,2,South America,2,True,False,rag,True,False,True,False,False,False,True
-5865921734272835772_0_en,5865921734272835772_0,English,Brazil,Cooking and food,3,Condensed milk pudding,3,True,False,rag,True,True,True,False,False,False,True
-5865910674275661528_2,5865910674275661528_2,Chinese,China,People and everyday life,1,广场,1,True,False,rag,True,False,True,False,False,False,True
-5865921724273589087_0_en,5865921724273589087_0,English,Brazil,Traditions / art / history,0,Aleijadinho,0,True,False,rag,False,True,True,False,False,False,True
-5865910684277574728_0,5865910684277574728_0,Chinese,China,Traditions / art / history,0,舞狮,0,True,False,rag,True,False,True,False,False,False,True
-5865921734273050896_1,5865921734273050896_1,Portuguese,Brazil,Public Figure and pop culture,2,Como líder sindical,2,True,False,rag,True,False,True,False,True,False,True
-5865910684275278248_0,5865910684275278248_0,Chinese,China,Sports and recreation,2,围棋,2,True,False,rag,True,True,True,False,False,False,True
-5865921724278795045_1,5865921724278795045_1,Portuguese,Brazil,Traditions / art / history,2,Tarsila do Amaral,2,True,False,rag,True,False,True,False,False,False,True
-5865921724278457769_1_en,5865921724278457769_1,English,Brazil,Geography / buildings / landmarks,2,The Hill of the Two Brothers,2,True,False,rag,True,False,True,False,False,False,True
-5865941054275946269_2,5865941054275946269_2,Chinese,Singapore,Public Figure and pop culture,2,中文,2,True,False,rag,True,True,True,False,False,True,True
-5865941054279861444_1,5865941054279861444_1,Chinese,Singapore,Brands / products / companies,1,咖啡,2,False,False,rag,True,True,True,False,False,False,True
-5865910694271174498_0,5865910694271174498_0,Chinese,China,Traditions / art / history,0,皮影戏,0,True,False,rag,True,True,True,False,False,True,True
-5865921714273558606_2_en,5865921714273558606_2,English,Brazil,Plants and animal,2,Aquatic environments,2,True,False,rag,True,True,True,False,False,False,True
-5865921724276490167_1_en,5865921724276490167_1,English,Brazil,Brands / products / companies,0,Brazil,0,True,False,rag,True,True,True,False,False,False,True
-5865921714277382984_1_en,5865921714277382984_1,English,Brazil,Geography / buildings / landmarks,3,Lacerda Elevator,3,True,False,rag,True,False,True,False,False,False,True
-5865921734274186008_0_en,5865921734274186008_0,English,Brazil,Cooking and food,3,Açaí bowl,3,True,False,rag,True,True,True,False,False,False,True
-5865921714274652953_1,5865921714274652953_1,Portuguese,Brazil,Objects / materials / clothing,1,São feitos trançando palha,1,True,False,rag,False,False,True,False,False,False,True
-5865921724279215340_0_en,5865921724279215340_0,English,Brazil,Plants and animal,1,Maned wolf,1,True,False,rag,True,False,True,False,True,False,True
-5865910664271717886_1,5865910664271717886_1,Chinese,China,Traditions / art / history,0,唐朝,3,False,False,rag,True,False,True,False,True,True,True
-5865910674276140013_1,5865910674276140013_1,Chinese,China,Traditions / art / history,0,四川,0,True,False,rag,True,False,True,False,True,True,True
-5865941044274772095_1,5865941044274772095_1,Chinese,Singapore,Cooking and food,0,农历新年,1,False,False,rag,True,True,True,False,False,False,True
-5865921724275171638_0_en,5865921724275171638_0,English,Brazil,Plants and animal,1,Golden lion tamarin,1,True,False,rag,True,False,True,False,True,False,True
-5865921714276184199_2_en,5865921714276184199_2,English,Brazil,Cooking and food,0,It is boiled in water inside the corn husk,0,True,False,rag,True,False,True,False,False,False,True
-5865910664276998290_1,5865910664276998290_1,Chinese,China,Geography / buildings / landmarks,3,山西忻州,1,False,False,rag,True,True,True,False,True,True,True
-5865921724272758350_1,5865921724272758350_1,Portuguese,Brazil,Plants and animal,0,América do Sul,1,False,False,rag,True,False,True,False,True,False,True
-5865941054278310786_0,5865941054278310786_0,Chinese,Singapore,Traditions / art / history,1,捞鱼生,1,True,False,rag,True,True,True,False,False,False,True
-5865910674273458190_1,5865910674273458190_1,Chinese,China,Objects / materials / clothing,3,二胡,1,False,False,rag,True,False,True,False,False,False,True
-5865921714278479218_1_en,5865921714278479218_1,English,Brazil,Public Figure and pop culture,3,Oscar,3,True,False,rag,False,True,True,False,False,False,True
-5865921724272758350_0_en,5865921724272758350_0,English,Brazil,Plants and animal,1,Yellow Ipê,1,True,False,rag,True,True,True,False,False,False,True
-5865921734271148267_1,5865921734271148267_1,Portuguese,Brazil,Cooking and food,0,Guabiroba,0,True,False,rag,True,False,True,False,False,False,True
-5865921734274161130_0_en,5865921734274161130_0,English,Brazil,Public Figure and pop culture,3,Pelé,3,True,False,rag,True,True,True,False,False,False,True
-5865921724278669886_2_en,5865921724278669886_2,English,Brazil,Public Figure and pop culture,1,The alchemist,1,True,False,rag,True,True,True,False,False,False,True
-5865910664276876312_0,5865910664276876312_0,Chinese,China,Geography / buildings / landmarks,1,内蒙古,1,True,False,rag,True,True,True,False,False,False,True
-5865921714274651543_0,5865921714274651543_0,Portuguese,Brazil,Objects / materials / clothing,2,Barro,2,True,False,rag,True,False,True,False,False,False,True
+5865941064274206244_0,5865941064274206244_0,Chinese,Singapore,Geography / buildings / landmarks,0,博物馆,3,False,False,rag,True,False,True,True,True,False,True
+5865910684277574728_0,5865910684277574728_0,Chinese,China,Traditions / art / history,0,舞狮,0,True,False,rag,True,True,True,False,False,False,True
+5865941054275946269_2,5865941054275946269_2,Chinese,Singapore,Public Figure and pop culture,2,中文,2,True,False,rag,True,False,True,False,True,True,True
+5865921714277382984_1_en,5865921714277382984_1,English,Brazil,Geography / buildings / landmarks,3,Lacerda Elevator,3,True,False,rag,True,False,True,False,True,True,True
+5865910674276140013_1,5865910674276140013_1,Chinese,China,Traditions / art / history,0,四川,0,True,False,rag,True,False,True,False,True,False,True
+5865921724272758350_1,5865921724272758350_1,Portuguese,Brazil,Plants and animal,0,América do Sul,1,False,False,rag,True,False,True,False,True,True,True
+5865921734271148267_1,5865921734271148267_1,Portuguese,Brazil,Cooking and food,0,Guabiroba,0,True,False,rag,True,False,True,False,True,False,True
 5865921724272396644_1,5865921724272396644_1,Portuguese,Brazil,Cooking and food,3,Polvilho e queijo,3,True,False,rag,True,True,True,False,False,False,True
-5865910664277319101_1,5865910664277319101_1,Chinese,China,Objects / materials / clothing,3,夏天,3,True,False,rag,True,False,True,False,False,False,True
-5865921724279756825_2,5865921724279756825_2,Portuguese,Brazil,Public Figure and pop culture,0,Bahia,0,True,False,rag,True,True,True,False,False,False,True
-5865941054277366124_0,5865941054277366124_0,Chinese,Singapore,Plants and animal,0,猪笼草,0,True,False,rag,True,True,True,False,False,False,True
-5865921734279252365_2_en,5865921734279252365_2,English,Brazil,Objects / materials / clothing,1,"Water is poured into the upper part, gravity-filtered and stored in the lower part",1,True,False,rag,True,False,True,False,False,False,True
-5865921734277107771_0,5865921734277107771_0,Portuguese,Brazil,Traditions / art / history,1,Cerâmica marajoara,1,True,False,rag,True,False,True,False,False,False,True
-5865921724278567283_2,5865921724278567283_2,Portuguese,Brazil,Sports and recreation,3,Quatro de paus,1,False,False,rag,True,False,True,False,False,False,True
-5865921734279510468_1_en,5865921734279510468_1,English,Brazil,Cooking and food,1,That its filling is different from the one in the other pastel,1,True,False,rag,True,False,True,False,True,False,True
-5865921714271027281_1,5865921714271027281_1,Portuguese,Brazil,Geography / buildings / landmarks,3,Prefeitura,3,True,False,rag,True,True,True,False,False,False,True
-5865921544275330140_1,5865921544275330140_1,Portuguese,Brazil,People and everyday life,1,Alimentos,1,True,False,rag,True,False,True,False,False,False,True
-5865921734273472362_2_en,5865921734273472362_2,English,Brazil,Geography / buildings / landmarks,3,Corcovado,3,True,False,rag,True,False,True,False,False,True,True
-5865921724273769462_0,5865921724273769462_0,Portuguese,Brazil,Cooking and food,1,Extrato de guaraná,1,True,False,rag,True,False,True,False,False,False,True
-5865921724276376594_1_en,5865921724276376594_1,English,Brazil,Sports and recreation,1,At a samba school court,1,True,False,rag,True,False,True,False,False,False,True
-5865921724273569611_1,5865921724273569611_1,Portuguese,Brazil,Plants and animal,1,Floresta Amazônica,1,True,False,rag,True,True,True,False,False,False,True
-5865941054279417961_1,5865941054279417961_1,Chinese,Singapore,Public Figure and pop culture,0,新加坡,0,True,False,rag,True,False,True,False,False,False,True
-5865921724273924245_0_en,5865921724273924245_0,English,Brazil,Geography / buildings / landmarks,3,Church of Saint Francis of Assisi,3,True,False,rag,False,True,True,False,False,False,True
-5865910684275930600_1,5865910684275930600_1,Chinese,China,Cooking and food,0,芦苇叶,0,True,False,rag,True,False,True,False,False,False,True
-5865921724277023635_2_en,5865921724277023635_2,English,Brazil,Sports and recreation,3,Rio de Janeiro,3,True,False,rag,True,False,True,False,True,True,True
-5865910674279788587_0,5865910674279788587_0,Chinese,China,Brands / products / companies,3,饭馆或客栈,2,False,False,rag,True,True,True,False,True,False,True
-5865921724278457769_0_en,5865921724278457769_0,English,Brazil,Geography / buildings / landmarks,3,Fernando de Noronha archipelago,0,False,False,rag,True,True,True,False,False,False,True
-5865910664273883825_0,5865910664273883825_0,Chinese,China,Traditions / art / history,0,皮影戏,0,True,False,rag,True,True,True,False,False,False,True
-5865910674272856371_0,5865910674272856371_0,Chinese,China,Cooking and food,0,食物,0,True,False,rag,True,True,True,False,False,False,True
-5865941054274983566_1,5865941054274983566_1,Chinese,Singapore,Objects / materials / clothing,1,沙笼可芭雅,1,True,False,rag,True,False,True,False,False,False,True
-5865921724275917345_2,5865921724275917345_2,Portuguese,Brazil,Vehicles and Transportation,0,Transporte de carga,0,True,False,rag,True,True,True,False,False,False,True
-5865921714271008740_2,5865921714271008740_2,Portuguese,Brazil,Geography / buildings / landmarks,2,Acre,2,True,False,rag,False,True,True,False,False,False,True
-5865921724279756825_1,5865921724279756825_1,Portuguese,Brazil,Public Figure and pop culture,3,Por sua carreira como cantor e compositor,3,True,False,rag,True,True,True,False,False,False,True
-5865921724275917345_1_en,5865921724275917345_1,English,Brazil,Vehicles and Transportation,2,Horse,1,False,False,rag,True,False,True,False,False,False,True
-5865921724272758350_1_en,5865921724272758350_1,English,Brazil,Plants and animal,0,South America,0,True,False,rag,True,False,True,False,True,False,True
-5865921714274603466_0,5865921714274603466_0,Portuguese,Brazil,Cooking and food,0,Moqueca,0,True,False,rag,True,True,True,False,False,False,True
-5865921724276991380_2,5865921724276991380_2,Portuguese,Brazil,Traditions / art / history,0,Couro,1,False,False,rag,True,False,True,False,True,False,True
+5865921734277107771_0,5865921734277107771_0,Portuguese,Brazil,Traditions / art / history,1,Cerâmica marajoara,1,True,False,rag,True,False,True,False,True,False,True
+5865921734273472362_2_en,5865921734273472362_2,English,Brazil,Geography / buildings / landmarks,3,Corcovado,3,True,False,rag,True,False,True,False,True,True,True
+5865921724273924245_0_en,5865921724273924245_0,English,Brazil,Geography / buildings / landmarks,3,Church of Saint Francis of Assisi,0,False,False,rag,True,True,True,False,True,False,True
+5865910664273883825_0,5865910664273883825_0,Chinese,China,Traditions / art / history,0,皮影戏,0,True,False,rag,True,False,True,False,False,False,True
+5865921724279756825_1,5865921724279756825_1,Portuguese,Brazil,Public Figure and pop culture,3,Por sua carreira como cantor e compositor,3,True,False,rag,True,True,True,False,False,True,True
 5865921724279925605_1_en,5865921724279925605_1,English,Brazil,Traditions / art / history,1,On January 6th,1,True,False,rag,True,False,True,False,True,True,True
-5865910664277619378_0,5865910664277619378_0,Chinese,China,Plants and animal,2,扬子鳄,2,True,False,rag,True,False,True,False,False,False,True
-5865921724279756825_1_en,5865921724279756825_1,English,Brazil,Public Figure and pop culture,3,For his career as a singer and songwriter,3,True,False,rag,True,False,True,False,False,False,True
-5865921724275710484_1_en,5865921724275710484_1,English,Brazil,Vehicles and Transportation,3,Patrol car,2,False,False,rag,False,False,True,False,False,False,True
-5865921724278895927_2,5865921724278895927_2,Portuguese,Brazil,People and everyday life,1,Camelódromos,1,True,False,rag,True,False,True,False,False,False,True
-5865921734272896339_1_en,5865921734272896339_1,English,Brazil,Public Figure and pop culture,0,São Paulo,0,True,False,rag,True,True,True,False,False,False,True
-5865910674274264939_0,5865910674274264939_0,Chinese,China,Traditions / art / history,2,剪纸,1,False,False,rag,True,False,True,False,False,False,True
-5865921724276376594_2,5865921724276376594_2,Portuguese,Brazil,Sports and recreation,0,Puxador de samba,0,True,False,rag,True,True,True,False,False,False,True
-5865921714272599641_0,5865921714272599641_0,Portuguese,Brazil,Sports and recreation,0,Capoeira,0,True,False,rag,True,True,True,False,False,False,True
-5865910684274558601_0,5865910684274558601_0,Chinese,China,Plants and animal,2,牡丹花,3,False,False,rag,True,False,True,False,False,False,True
-5865921734272985666_0_en,5865921734272985666_0,English,Brazil,Geography / buildings / landmarks,0,"It is the Ministries Promenade, in Brasília",0,True,False,rag,True,False,True,False,False,False,True
-5865921724277641497_2,5865921724277641497_2,Portuguese,Brazil,Brands / products / companies,2,Sozinho,2,True,False,rag,True,False,True,False,False,False,True
-5865921714274479723_2_en,5865921714274479723_2,English,Brazil,Vehicles and Transportation,3,Chest,2,False,False,rag,True,False,True,False,False,False,True
-5865921724278872802_1,5865921724278872802_1,Portuguese,Brazil,People and everyday life,1,Acarajé,1,True,False,rag,True,True,True,False,False,False,True
-5865921724272085630_0,5865921724272085630_0,Portuguese,Brazil,Geography / buildings / landmarks,1,Lençóis Maranhenses,1,True,False,rag,True,True,True,False,False,False,True
+5865921734272896339_1_en,5865921734272896339_1,English,Brazil,Public Figure and pop culture,0,São Paulo,3,False,False,rag,True,True,True,False,True,True,True
+5865921734272985666_0_en,5865921734272985666_0,English,Brazil,Geography / buildings / landmarks,0,"It is the Ministries Promenade, in Brasília",0,True,False,rag,True,True,True,False,True,False,True
 5865941044275790004_0,5865941044275790004_0,Chinese,Singapore,People and everyday life,3,在饮料摊购买,0,False,False,rag,True,False,True,False,False,False,True
-5865941064279325167_2,5865941064279325167_2,Chinese,Singapore,Cooking and food,2,煎蕊,2,True,False,rag,True,False,True,False,True,False,True
-5865921714276824661_0_en,5865921714276824661_0,English,Brazil,Brands / products / companies,0,Brahma,0,True,False,rag,True,True,True,False,False,False,True
-5865941054278186519_0,5865941054278186519_0,Chinese,Singapore,Brands / products / companies,0,餐馆,0,True,False,rag,True,True,True,False,False,False,True
-5865921724273893726_2_en,5865921724273893726_2,English,Brazil,Traditions / art / history,3,May and June,2,False,False,rag,True,False,True,False,True,False,True
-5865910674274522108_0,5865910674274522108_0,Chinese,China,Traditions / art / history,0,象形字,0,True,False,rag,True,False,True,False,False,False,True
-5865910664275364554_1,5865910664275364554_1,Chinese,China,Geography / buildings / landmarks,0,地藏菩萨,2,False,False,rag,True,True,True,False,False,False,True
-5865921714276938819_1_en,5865921714276938819_1,English,Brazil,Geography / buildings / landmarks,3,Afonso Pena,3,True,False,rag,True,True,True,False,False,False,True
-5865921724272030424_2,5865921724272030424_2,Portuguese,Brazil,Traditions / art / history,0,Bandeirolas,0,True,False,rag,True,False,True,False,False,False,True
-5865921724277757865_1_en,5865921724277757865_1,English,Brazil,Plants and animal,2,Jabuticabas,2,True,False,rag,True,False,True,False,False,False,True
-5865921724271226128_0_en,5865921724271226128_0,English,Brazil,Geography / buildings / landmarks,0,Curitiba Botanical Garden,0,True,False,rag,True,True,True,False,False,False,True
-5865921724273569611_2,5865921724273569611_2,Portuguese,Brazil,Plants and animal,1,América do Sul,1,True,False,rag,True,False,True,False,False,False,True
-5865910664272109734_1,5865910664272109734_1,Chinese,China,Plants and animal,2,广西南宁,3,False,False,rag,True,False,True,False,True,True,True
-5865910694279356357_0,5865910694279356357_0,Chinese,China,Traditions / art / history,1,四川,0,False,False,rag,True,True,True,False,False,False,True
-5865910674278545668_1,5865910674278545668_1,Chinese,China,Objects / materials / clothing,0,太阳崇拜,0,True,False,rag,True,False,True,False,True,True,True
-5865910684272254017_0,5865910684272254017_0,Chinese,China,Objects / materials / clothing,3,汉服,3,True,False,rag,True,True,True,False,False,False,True
-5865941054272513039_0,5865941054272513039_0,Chinese,Singapore,Geography / buildings / landmarks,3,圣安德烈座堂,3,True,False,rag,True,False,True,False,False,False,True
-5865921724272564226_0,5865921724272564226_0,Portuguese,Brazil,Sports and recreation,1,Cama de gato,0,False,False,rag,False,False,True,False,False,False,True
-5865921724278567283_0_en,5865921724278567283_0,English,Brazil,Sports and recreation,0,Truco,0,True,False,rag,True,True,True,False,False,False,True
-5865921734271148267_0,5865921734271148267_0,Portuguese,Brazil,Cooking and food,2,Empadão goiano,3,False,False,rag,True,False,True,False,False,False,True
+5865910674274522108_0,5865910674274522108_0,Chinese,China,Traditions / art / history,0,象形字,3,False,False,rag,True,False,True,False,True,False,True
+5865921724271226128_0_en,5865921724271226128_0,English,Brazil,Geography / buildings / landmarks,0,Curitiba Botanical Garden,0,True,False,rag,True,False,True,False,True,False,True
+5865910684272254017_0,5865910684272254017_0,Chinese,China,Objects / materials / clothing,3,汉服,2,False,False,rag,True,True,True,False,False,False,True
 5865910684274960009_1,5865910684274960009_1,Chinese,China,Traditions / art / history,1,写字和画画,1,True,False,rag,True,False,True,False,False,False,True
-5865921724278669886_1,5865921724278669886_1,Portuguese,Brazil,Public Figure and pop culture,1,Por sua carreira como escritor,1,True,False,rag,True,True,True,False,False,False,True
-5865941064276482107_0,5865941064276482107_0,Chinese,Singapore,Cooking and food,0,蒸,2,False,False,rag,False,False,True,False,False,False,True
-5865921724272030424_1,5865921724272030424_1,Portuguese,Brazil,Traditions / art / history,1,Quadrilha,1,True,False,rag,True,True,True,False,False,False,True
-5865921714277382984_0_en,5865921714277382984_0,English,Brazil,Geography / buildings / landmarks,2,Salvador,2,True,False,rag,False,True,True,False,False,False,True
-5865910684272121226_0,5865910684272121226_0,Chinese,China,Traditions / art / history,0,春节,0,True,False,rag,True,True,True,False,False,False,True
-5865910674271950573_1,5865910674271950573_1,Chinese,China,Geography / buildings / landmarks,2,苏州园林甲江南,2,True,False,rag,True,False,True,False,True,True,True
-5865921724272670398_0_en,5865921724272670398_0,English,Brazil,Plants and animal,3,Onça pintada,3,True,False,rag,True,True,True,False,False,False,True
-5865921714277382984_1,5865921714277382984_1,Portuguese,Brazil,Geography / buildings / landmarks,3,Elevador Lacerda,3,True,False,rag,True,False,True,False,False,False,True
-5865921734274338104_2_en,5865921734274338104_2,English,Brazil,Cooking and food,3,Orange,3,True,False,rag,False,True,True,False,False,False,True
+5865910684272121226_0,5865910684272121226_0,Chinese,China,Traditions / art / history,0,春节,0,True,False,rag,True,False,True,True,False,False,True
 5865910684272730176_0,5865910684272730176_0,Chinese,China,Geography / buildings / landmarks,1,西藏拉萨,1,True,False,rag,True,True,True,False,False,False,True
-5865921724272030424_0,5865921724272030424_0,Portuguese,Brazil,Traditions / art / history,1,Festa Junina,1,True,False,rag,True,True,True,False,False,False,True
-5865921714279434118_0_en,5865921714279434118_0,English,Brazil,Objects / materials / clothing,1,Cuia,1,True,False,rag,True,True,True,False,False,False,True
-5865921734279510468_0,5865921734279510468_0,Portuguese,Brazil,Cooking and food,2,Pastel,3,False,False,rag,True,False,True,False,False,False,True
-5865941044275877413_0,5865941044275877413_0,Chinese,Singapore,Geography / buildings / landmarks,3,运动,2,False,False,rag,True,True,True,False,False,False,True
-5865921724271622539_0_en,5865921724271622539_0,English,Brazil,Plants and animal,3,Capybara,3,True,False,rag,True,False,True,False,False,False,True
-5865921714276184199_1_en,5865921714276184199_1,English,Brazil,Cooking and food,2,Corn,2,True,False,rag,False,False,True,False,False,False,True
-5865921714273558606_1,5865921714273558606_1,Portuguese,Brazil,Plants and animal,2,América do Sul,2,True,False,rag,True,True,True,False,False,False,True
-5865921724279215340_2_en,5865921724279215340_2,English,Brazil,Plants and animal,2,"Small mammals, fruits, and vegetables",2,True,False,rag,True,True,True,False,False,False,True
-5865910684274034457_0,5865910684274034457_0,Chinese,China,Traditions / art / history,3,春节,3,True,False,rag,True,False,True,False,False,False,True
-5865910674272466659_0,5865910674272466659_0,Chinese,China,Traditions / art / history,3,打铁花,3,True,False,rag,True,False,True,False,False,False,True
-5865921734274338104_1,5865921734274338104_1,Portuguese,Brazil,Cooking and food,2,Feijão e carne de porco,2,True,False,rag,True,False,True,False,False,False,True
-5865921734274161130_1_en,5865921734274161130_1,English,Brazil,Public Figure and pop culture,3,Minas Gerais,3,True,False,rag,True,True,True,False,False,False,True
-5865941064275453977_0,5865941064275453977_0,Chinese,Singapore,Cooking and food,3,菠萝蜜,0,False,False,rag,False,False,True,False,False,False,True
-5865921724279925605_1,5865921724279925605_1,Portuguese,Brazil,Traditions / art / history,1,No dia 6 de janeiro,1,True,False,rag,True,False,True,False,True,False,True
-5865941064272683818_0,5865941064272683818_0,Chinese,Singapore,People and everyday life,3,食物,1,False,False,rag,True,True,True,False,True,False,True
-5865910684273444114_0,5865910684273444114_0,Chinese,China,Geography / buildings / landmarks,0,卢沟桥,1,False,False,rag,True,True,True,False,False,False,True
-5865921714272599641_1,5865921714272599641_1,Portuguese,Brazil,Sports and recreation,2,Berimbau,2,True,False,rag,True,False,True,False,True,True,True
-5865921724275917345_2_en,5865921724275917345_2,English,Brazil,Vehicles and Transportation,0,Cargo transportation,1,False,False,rag,True,False,True,False,False,False,True
-5865921724274864867_0_en,5865921724274864867_0,English,Brazil,Vehicles and Transportation,2,Volkswagen Fusca,2,True,False,rag,True,True,True,False,False,False,True
+5865921724271622539_0_en,5865921724271622539_0,English,Brazil,Plants and animal,3,Capybara,3,True,False,rag,True,True,True,False,False,False,True
+5865910674272466659_0,5865910674272466659_0,Chinese,China,Traditions / art / history,3,打铁花,3,True,False,rag,True,False,True,True,True,False,True
+5865941064272683818_0,5865941064272683818_0,Chinese,Singapore,People and everyday life,3,食物,1,False,False,rag,True,False,True,False,True,True,True
 5865921724278872802_0,5865921724278872802_0,Portuguese,Brazil,People and everyday life,2,Baiana,2,True,False,rag,True,False,True,False,True,False,True
-5865910684278354531_0,5865910684278354531_0,Chinese,China,Cooking and food,3,兰州拉面,3,True,False,rag,True,True,True,False,False,False,True
-5865921724275522377_1,5865921724275522377_1,Portuguese,Brazil,Traditions / art / history,2,Rio de Janeiro,2,True,False,rag,True,False,True,False,True,False,True
-5865921714271027281_0,5865921714271027281_0,Portuguese,Brazil,Geography / buildings / landmarks,1,Juiz de Fora,1,True,False,rag,True,True,True,False,False,False,True
-5865941064275084723_0,5865941064275084723_0,Chinese,Singapore,Traditions / art / history,3,财富,3,True,False,rag,True,False,True,False,False,False,True
-5865921714279492186_2,5865921714279492186_2,Portuguese,Brazil,Vehicles and Transportation,1,D,1,True,False,rag,True,False,True,False,False,False,True
-5865921714272599641_2,5865921714272599641_2,Portuguese,Brazil,Sports and recreation,3,Africanos escravizados no Brasil,3,True,False,rag,True,True,True,False,False,False,True
-5865910664275013697_1,5865910664275013697_1,Chinese,China,Plants and animal,1,西藏,1,True,False,rag,True,True,True,False,False,False,True
-5865941054271584589_0,5865941054271584589_0,Chinese,Singapore,Brands / products / companies,2,新加坡,2,True,False,rag,True,False,True,False,False,False,True
-5865941054272262238_0,5865941054272262238_0,Chinese,Singapore,Brands / products / companies,2,新加坡航空,2,True,False,rag,True,False,True,False,False,False,True
+5865921714279492186_2,5865921714279492186_2,Portuguese,Brazil,Vehicles and Transportation,1,D,0,False,False,rag,True,False,True,False,False,False,True
 5865921714274479723_0_en,5865921714274479723_0,English,Brazil,Vehicles and Transportation,2,Motorcycle courier,2,True,False,rag,True,False,True,False,False,False,True
-5865910674273458190_0,5865910674273458190_0,Chinese,China,Objects / materials / clothing,1,旗袍,1,True,False,rag,True,False,True,False,False,False,True
-5865921734279704418_1_en,5865921734279704418_1,English,Brazil,Geography / buildings / landmarks,2,Colonial architecture,2,True,False,rag,True,True,True,False,False,False,True
-5865921724276991380_0,5865921724276991380_0,Portuguese,Brazil,Traditions / art / history,1,Forró,1,True,False,rag,True,False,True,False,False,False,True
-5865921724272396644_2,5865921724272396644_2,Portuguese,Brazil,Cooking and food,3,Parmesão ou queijo Minas,3,True,False,rag,True,True,True,False,False,False,True
-5865921724273924245_2,5865921724273924245_2,Portuguese,Brazil,Geography / buildings / landmarks,2,Oscar Niemeyer,2,True,False,rag,True,True,True,False,False,False,True
+5865921724273924245_2,5865921724273924245_2,Portuguese,Brazil,Geography / buildings / landmarks,2,Oscar Niemeyer,2,True,False,rag,True,False,True,False,False,False,True
